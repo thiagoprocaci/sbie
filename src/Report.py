@@ -45,7 +45,7 @@ def countWorkAloneByEdicao(workList):
 			edicaoDict[work.edicao] = 0
 		if (work.authorList) and (len(work.authorList) == 1):
 			edicaoDict[work.edicao] = edicaoDict[work.edicao] + 1
-			#print work.id
+			print work.id
 		#if (not work.authorList):
 			#print work.paperName, work.edicao
 
@@ -227,7 +227,7 @@ def addConections(graph):
 
 
 def main():
-	jsonFilePath = IOUtils.joinPaths('data','sbie.json')
+	jsonFilePath = IOUtils.joinPaths('data','ICALT.json')
 	jsonFile = codecs.open(jsonFilePath, 'r', 'utf-8')
 	text = jsonFile.read()
 	jsonData = json.loads(text)

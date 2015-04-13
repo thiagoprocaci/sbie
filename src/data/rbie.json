@@ -1,0 +1,2556 @@
+{ "Works" : [ { "id" : "2318_2080" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "1-1997-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2318/2080" , 
+ "authorList" : [  
+ "Raul Sidnei Wazlawick" ] 
+} 
+, { "id" : "2319_2081" , 
+ "paperName" : "SOFTWARE EDUCATIVO MULTIMIDIA ASPECTOS CRÍTICOS NO SEU CICLO DE VIDA" , 
+ "edicao" : "1-1997-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2319/2081" , 
+ "authorList" : [  
+ "Alvaro H. Galvis-Panqueva" ] 
+} 
+, { "id" : "2320_2082" , 
+ "paperName" : "INFORMÁTICA EDUCATIVA NO BRASIL: UMA HISTÓRIA VIVIDA, ALGUMAS LIÇÕES APRENDIDAS" , 
+ "edicao" : "1-1997-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2320/2082" , 
+ "authorList" : [  
+ "Maria Candida Moraes" ] 
+} 
+, { "id" : "2324_2083" , 
+ "paperName" : "VISÃO ANALÍTICA DA INFORMÁTICA NA EDUCAÇÃO NO BRASIL: A questão da formação do professor" , 
+ "edicao" : "1-1997-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2324/2083" , 
+ "authorList" : [  
+ "José Armando Valente"  , "Fernando José de Almeida" ] 
+} 
+, { "id" : "2325_2084" , 
+ "paperName" : "INFRA-ESTRUTURA DE SUPORTE À EDITORAÇÃO DE MATERIAL DIDÁTICO UTILIZANDO MULTIMÍDIA" , 
+ "edicao" : "1-1997-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2325/2084" , 
+ "authorList" : [  
+ "Maria Alice Soares de Castro"  , "Rudinei Goularte"  , "Elderclei Regis Reami"  , "Edson dos Santos Moreira" ] 
+} 
+, { "id" : "2326_2085" , 
+ "paperName" : "Astral: Um Ambiente para Ensino de Estruturas de Dados através de Animações de Algoritmos" , 
+ "edicao" : "1-1997-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2326/2085" , 
+ "authorList" : [  
+ "Islene C. Garcia"  , "Pedro J. de Rezende"  , "Felipe C. Calheiros" ] 
+} 
+, { "id" : "2327_2086" , 
+ "paperName" : "Educação de Pacientes através de Sistemas de Acesso Público" , 
+ "edicao" : "1-1997-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2327/2086" , 
+ "authorList" : [  
+ "Carla Valle"  , "Antonio Augusto Ximenes"  , "Gilda Helena B. de Campos"  , "Ana Regina Rocha"  , "Alvaro Rabelo Jr." ] 
+} 
+, { "id" : "2328_2087" , 
+ "paperName" : "LICENCIATURA EM INFORMÁTICA - Uma questão em aberto" , 
+ "edicao" : "1-1997-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2328/2087" , 
+ "authorList" : [  
+ "Sonia Schechtman Sette"  , "Márcia Angela Aguiar"  , "José Sergio Antunes Sette" ] 
+} 
+, { "id" : "2329_2088" , 
+ "paperName" : "Atualizando Dicas Visuais para Coerência Local e Global na Web" , 
+ "edicao" : "1-1997-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2329/2088" , 
+ "authorList" : [  
+ "Creto Augusto Vidal"  , "Edgar Marçal Filho"  , "Antonio José Melo Leite Júnior" ] 
+} 
+, { "id" : "2330_2089" , 
+ "paperName" : "Explorando Funções Matemáticas através de Micromundos Dinâmicos" , 
+ "edicao" : "1-1997-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2330/2089" , 
+ "authorList" : [  
+ "Verônica Gitirana Gomes Ferreira" ] 
+} 
+, { "id" : "2331_2091" , 
+ "paperName" : "Sistemas Hipermídia para o Ensino: estendendo as facilidades para o tutor e o estudante" , 
+ "edicao" : "1-1997-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2331/2091" , 
+ "authorList" : [  
+ "Gustavo H. R. Santos" ] 
+} 
+, { "id" : "2332_2092" , 
+ "paperName" : "Um Ambiente Computacional de Aprendizagem baseado em Redes Semânticas" , 
+ "edicao" : "1-1997-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2332/2092" , 
+ "authorList" : [  
+ "Hamilton Chaiben" ] 
+} 
+, { "id" : "2333_2093" , 
+ "paperName" : "Sistema de Autoria para Construção de “Adventures” Educacionais em Realidade Virtual" , 
+ "edicao" : "1-1997-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2333/2093" , 
+ "authorList" : [  
+ "Patrícia C. Souza" ] 
+} 
+, { "id" : "2334_2094" , 
+ "paperName" : "Análise ergonômica do sistema hiperNet buscando o aprendizado da cooperação e da autonomia" , 
+ "edicao" : "1-1997-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2334/2094" , 
+ "authorList" : [  
+ "Edla Maria Faust Ramos" ] 
+} 
+, { "id" : "2224_1987" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "10-2002-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2224/1987" , 
+ "authorList" : [  
+ "Antônio Carlos da Rocha Costa" ] 
+} 
+, { "id" : "2225_1988" , 
+ "paperName" : "Ambiente para Construção Cooperativa de Histórias em Quadrinhos" , 
+ "edicao" : "10-2002-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2225/1988" , 
+ "authorList" : [  
+ "Elisa Boff"  , "Lucia Maria Martins Giraffa" ] 
+} 
+, { "id" : "2226_1989" , 
+ "paperName" : "DE-MAW: Um ambiente de Educação a Distância" , 
+ "edicao" : "10-2002-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2226/1989" , 
+ "authorList" : [  
+ "Wesley Peron Seno"  , "Marina Teresa Pires Vieira" ] 
+} 
+, { "id" : "2227_1990" , 
+ "paperName" : "Usando a Categorização e Estruturação de Mensagens Textuais em Cursos pelo Ambiente AulaNet" , 
+ "edicao" : "10-2002-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2227/1990" , 
+ "authorList" : [  
+ "Hugo Fuks"  , "Marco Aurélio Gerosa"  , "Carlos José Pereira de Lucena" ] 
+} 
+, { "id" : "2228_1991" , 
+ "paperName" : "Tecnologia da Informação no Ensino de Contabilidade" , 
+ "edicao" : "10-2002-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2228/1991" , 
+ "authorList" : [  
+ "Vicente Lima Crisóstomo"  , "Fátima de Souza Freire"  , "Ronney Nery Silva"  , "Carlos Henrique Mota Macedo" ] 
+} 
+, { "id" : "2229_1992" , 
+ "paperName" : "Comunicografia - uma metodologia para análise de processos de interação que se desenvolvem nas ferramentas de comunicação textual da Internet utilizadas no contexto de Educação a Distância" , 
+ "edicao" : "10-2002-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2229/1992" , 
+ "authorList" : [  
+ "Mariano Gomes Pimentel"  , "Fábio Ferrentini Sampaio" ] 
+} 
+, { "id" : "2230_1993" , 
+ "paperName" : "Um recorte no Estado da Arte: O que está sendo produzido? O que está faltando segundo nosso sub-paradigma?" , 
+ "edicao" : "10-2002-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2230/1993" , 
+ "authorList" : [  
+ "Rosane Aragón de Nevado"  , "Léa da Cruz Fagundes"  , "Marcus Vinicius Basso"  , "Ítalo Modesto Dutra"  , "Marcos Flávio Paim" ] 
+} 
+, { "id" : "2231_1994" , 
+ "paperName" : "Um Instrumento de Avaliação da Qualidade para Software Educacional de Matemática" , 
+ "edicao" : "10-2002-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2231/1994" , 
+ "authorList" : [  
+ "Ana Paula Gladcheff" ] 
+} 
+, { "id" : "2213_1975" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "10-2002-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2213/1975" , 
+ "authorList" : [  
+ "Antônio Carlos da Rocha Costa" ] 
+} 
+, { "id" : "2214_1976" , 
+ "paperName" : "Métricas para uma Educação sem Distância" , 
+ "edicao" : "10-2002-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2214/1976" , 
+ "authorList" : [  
+ "Romero Tori" ] 
+} 
+, { "id" : "2215_1977" , 
+ "paperName" : "Moonline: Proposta de um Ambiente baseado na Web para Apoio à Construção Coletiva de Conhecimento" , 
+ "edicao" : "10-2002-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2215/1977" , 
+ "authorList" : [  
+ "Tânia Barbosa Salles Gava"  , "Crediné Silva de Menezes" ] 
+} 
+, { "id" : "2220_1982" , 
+ "paperName" : "Sistema de autoria especializado em STIs matemáticos" , 
+ "edicao" : "10-2002-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2220/1982" , 
+ "authorList" : [  
+ "Constanza R. Huapaya"  , "Graciela M. Arona" ] 
+} 
+, { "id" : "2221_1984" , 
+ "paperName" : "Tecnologias na Educação: uma solução ou um problema pedagógico?" , 
+ "edicao" : "10-2002-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2221/1984" , 
+ "authorList" : [  
+ "Edson Jacinski"  , "Carlos Alberto Faraco" ] 
+} 
+, { "id" : "2222_1985" , 
+ "paperName" : "Estudo e Desenvolvimento de Ambientes de Aprendizado Colaborativo a Distância para o Contexto da Educação Inclusiva" , 
+ "edicao" : "10-2002-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2222/1985" , 
+ "authorList" : [  
+ "Gianfrancesca Cutini Barcellos" ] 
+} 
+, { "id" : "2223_1986" , 
+ "paperName" : "Uma abordagem participativa ao design de ambiente computacional de apoio à discussão de problemas no contexto de trabalho" , 
+ "edicao" : "10-2002-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2223/1986" , 
+ "authorList" : [  
+ "André Marcos da Silva" ] 
+} 
+, { "id" : "2206_1969" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "11-2003-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2206/1969" , 
+ "authorList" : [  
+ "Antônio Carlos da Rocha Costa" ] 
+} 
+, { "id" : "2207_1970" , 
+ "paperName" : "Agentes de Software em Ambientes Educacionais Mediados por Computador" , 
+ "edicao" : "11-2003-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2207/1970" , 
+ "authorList" : [  
+ "Neide dos Santos" ] 
+} 
+, { "id" : "2208_1971" , 
+ "paperName" : "A Adaptação do Ambiente AulaNet para dar Suporte a Grupos de Aprendizagem e sua Formação Utilizando os Conceitos de Agentes de Software" , 
+ "edicao" : "11-2003-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2208/1971" , 
+ "authorList" : [  
+ "Leonardo Magela Cunha"  , "Hugo Fuks"  , "Carlos José Pereira de Lucena" ] 
+} 
+, { "id" : "2209_1972" , 
+ "paperName" : "Auxiliando Interações de Planejamento em MArCo via Modelos de Grupo" , 
+ "edicao" : "11-2003-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2209/1972" , 
+ "authorList" : [  
+ "Patricia Azevedo Tedesco" ] 
+} 
+, { "id" : "2210_1973" , 
+ "paperName" : "Sistema para a Aprendizagem de Demonstrações da Geometria Euclidiana Plana - LEEG" , 
+ "edicao" : "11-2003-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2210/1973" , 
+ "authorList" : [  
+ "Márcia Rodrigues Notare"  , "Tiarajú Asmuz Diverio" ] 
+} 
+, { "id" : "2211_1974" , 
+ "paperName" : "Bons Resultados são Possíves no Difícil Contexto: Ensino de Química, Informática e Escola Pública" , 
+ "edicao" : "11-2003-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2211/1974" , 
+ "authorList" : [  
+ "Adriana Vitorino Rossi"  , "Gustavo Antonio Toretti" ] 
+} 
+, { "id" : "2198_1961" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "11-2003-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2198/1961" , 
+ "authorList" : [  
+ "Antônio Carlos da Rocha Costa" ] 
+} 
+, { "id" : "2199_1962" , 
+ "paperName" : "Utilização de um Software para Criação e Gerenciamento de Cursos Online num Curso para Professores da Rede Pública" , 
+ "edicao" : "11-2003-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2199/1962" , 
+ "authorList" : [  
+ "Rafael Humberto Scapin"  , "Euclydes Marega Jr." ] 
+} 
+, { "id" : "2200_1963" , 
+ "paperName" : "Suporte à Percepção em Ambientes de Aprendizagem Colaborativa" , 
+ "edicao" : "11-2003-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2200/1963" , 
+ "authorList" : [  
+ "Marco Aurélio Gerosa"  , "Hugo Fuks"  , "Carlos José Pereira de Lucena" ] 
+} 
+, { "id" : "2201_1964" , 
+ "paperName" : "Compreensões de professores sobre o software educativo Carbópolis e sua utilização em diferentes realidades de escola" , 
+ "edicao" : "11-2003-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2201/1964" , 
+ "authorList" : [  
+ "Juliano de Oliveira Guterres"  , "Marcelo Leandro Eichler"  , "José Cláudio Del Pino" ] 
+} 
+, { "id" : "2202_1965" , 
+ "paperName" : "UM MODELO DE SUPORTE À AVALIAÇÃO FORMATIVA NO AMBIENTE TELEDUC" , 
+ "edicao" : "11-2003-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2202/1965" , 
+ "authorList" : [  
+ "Joice Lee Otsuka"  , "Thaisa Barbosa Ferreira"  , "Ricardo Luís Lachi"  , "Heloísa Vieira da Rocha" ] 
+} 
+, { "id" : "2203_1966" , 
+ "paperName" : "SIMULAÇÕES ON-LINE NO ENSINO DA FÍSICA E DA QUÍMICA" , 
+ "edicao" : "11-2003-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2203/1966" , 
+ "authorList" : [  
+ "António José Martins"  , "Carlos Fiolhais"  , "João Paiva" ] 
+} 
+, { "id" : "2204_1967" , 
+ "paperName" : "COMA - Conceitos e Mapas" , 
+ "edicao" : "11-2003-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2204/1967" , 
+ "authorList" : [  
+ "Joni de Almeida Amorim"  , "Carlos Machado de Oliveira"  , "Mauro Sérgio Miskulin"  , "Rosana Giaretta Sguerra Miskulin" ] 
+} 
+, { "id" : "2205_1968" , 
+ "paperName" : "A-SIM: uma ferramenta de simulação" , 
+ "edicao" : "11-2003-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2205/1968" , 
+ "authorList" : [  
+ "Carlos Machado"  , "Joni de Almeida Amorim"  , "Marcius F.H. de Carvalho" ] 
+} 
+, { "id" : "2192_1955" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "12-2004-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2192/1955" , 
+ "authorList" : [  
+ "Antônio Carlos da Rocha Costa" ] 
+} 
+, { "id" : "2193_1956" , 
+ "paperName" : "Um Ambiente Computacional para Modelagem Simbólica de Sistemas Físicos Lineares Utilizando Grafos" , 
+ "edicao" : "12-2004-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2193/1956" , 
+ "authorList" : [  
+ "André Laurindo Maitelli"  , "Gilbert Azevedo da Silva" ] 
+} 
+, { "id" : "2194_1957" , 
+ "paperName" : "Metodologia para Acompanhamento da Aprendizagem através da Web" , 
+ "edicao" : "12-2004-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2194/1957" , 
+ "authorList" : [  
+ "Luciana Aparecida Martinez Zaina"  , "Wilson Vicente Ruggiero"  , "Graça Bressan" ] 
+} 
+, { "id" : "2195_1958" , 
+ "paperName" : "Help&Learn: A Peer-to-Peer Architecture to Support Knowledge Management in Collaborative Learning Communities" , 
+ "edicao" : "12-2004-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2195/1958" , 
+ "authorList" : [  
+ "Renata S. S. Guizzardi"  , "Lora Aroyo"  , "Gerd Wagner" ] 
+} 
+, { "id" : "2196_1959" , 
+ "paperName" : "O Professor e sua Primeira Página na Internet: Uma Experiência de Uso do Ambiente TelEduc" , 
+ "edicao" : "12-2004-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2196/1959" , 
+ "authorList" : [  
+ "Joni A. Amorim"  , "Daniel F. Pires"  , "Edilene A. Ropoli"  , "Camila C. Rodrigues" ] 
+} 
+, { "id" : "2197_1960" , 
+ "paperName" : "CONSTRUÇÃO E UTILIZAÇÃO DE UMA HORTA MEDICINAL ELETRÔNICA NO ENSINO DE CIÊNCIAS" , 
+ "edicao" : "12-2004-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2197/1960" , 
+ "authorList" : [  
+ "Ellen Suzi Cavalcanti Lima Constantino"  , "Rejane Martins Novais Barbosa"  , "Cristiano de Almeida Cardoso Marcelino Jr."  , "Zélia Maria Soares Jófili" ] 
+} 
+, { "id" : "2184_1948" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "12-2004-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2184/1948" , 
+ "authorList" : [  
+ "Antônio Carlos da Rocha Costa" ] 
+} 
+, { "id" : "2185_1949" , 
+ "paperName" : "Reflexões sobre os processos de ensino/aprendizagem de Matemática baseados no software educativo FORMEL" , 
+ "edicao" : "12-2004-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2185/1949" , 
+ "authorList" : [  
+ "Jean Piton Gonçalves" ] 
+} 
+, { "id" : "2186_1950" , 
+ "paperName" : "AS REDES DE ACESSO E O IMPACTO DAS MÍDIAS DIGITAIS EM TREINAMENTOS VIA TELECOMPUTAÇÃO" , 
+ "edicao" : "12-2004-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2186/1950" , 
+ "authorList" : [  
+ "José André Caruso Neto"  , "José Roberto de Almeida Amazonas" ] 
+} 
+, { "id" : "2187_1951" , 
+ "paperName" : "Aprendizado por Reforço para um Sistema Tutor Inteligente sem Modelo Explícito do Aprendiz" , 
+ "edicao" : "12-2004-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2187/1951" , 
+ "authorList" : [  
+ "Marcus Vinícius Carvalho Guelpeli"  , "Nizam Omar"  , "Carlos Henrique Costa Ribeiro" ] 
+} 
+, { "id" : "2188_1952" , 
+ "paperName" : "Implantação de Gestão Descentralizada de Recursos Acadêmicos – um estudo de caso" , 
+ "edicao" : "12-2004-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2188/1952" , 
+ "authorList" : [  
+ "André Pimenta Freire"  , "Débora Maria Barroso Paiva"  , "Renata Pontin de Mattos Fortes" ] 
+} 
+, { "id" : "2189_1953" , 
+ "paperName" : "Sistema de Avaliação, Controle e Apoio Didático - SACAD" , 
+ "edicao" : "12-2004-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2189/1953" , 
+ "authorList" : [  
+ "Frederico Kauffmann Barbosa"  , "Charles Artur Santos de Oliveira" ] 
+} 
+, { "id" : "2190_1954" , 
+ "paperName" : "INFORMÁTICA NA EDUCAÇÃO: A VISÃO DAS PROFESSORAS" , 
+ "edicao" : "12-2004-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2190/1954" , 
+ "authorList" : [  
+ "Trazíbulo Henrique Pardo Casas" ] 
+} 
+, { "id" : "53_72" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "13-2005-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/53/72" , 
+ "authorList" : [  
+ "Fábio Ferrentini Sampaio" ] 
+} 
+, { "id" : "54_71" , 
+ "paperName" : "Mapas Conceituais e IA: Uma União Improvável?" , 
+ "edicao" : "13-2005-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/54/71" , 
+ "authorList" : [  
+ "Alberto J. Cañas"  , "Marco M. Carvalho" ] 
+} 
+, { "id" : "55_61" , 
+ "paperName" : "STI-I: SISTEMAS TUTORIAIS INTELIGENTES QUE INTEGRAM COGNIÇÃO, EMOÇÃO E MOTIVAÇÃO" , 
+ "edicao" : "13-2005-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/55/61" , 
+ "authorList" : [  
+ "Lúbia Mara Lopes Rodrigues"  , "Marco Carvalho" ] 
+} 
+, { "id" : "56_62" , 
+ "paperName" : "Agentes Peer-To-Peer Baseados Em Ontologias Como Mediadores Em Processos Comunitários De Partilha E Aprendizagem" , 
+ "edicao" : "13-2005-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/56/62" , 
+ "authorList" : [  
+ "G. A. Giménez-Lugo"  , "A. B. Wozniak-Giménez"  , "J. S. Sichman"  , "J. F. Hübner" ] 
+} 
+, { "id" : "72_63" , 
+ "paperName" : "AUXILIAR: Um Sistema Inteligente para Cursos Online" , 
+ "edicao" : "13-2005-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/72/63" , 
+ "authorList" : [  
+ "Dilermando Piva Jr."  , "Mauro Sérgio Miskulin"  , "Ricardo Luís Freitas"  , "Carlos Miguel Tobar" ] 
+} 
+, { "id" : "73_64" , 
+ "paperName" : "UM MODELO PARA INCORPORAÇÃO DE  AUTOMONITORAMENTO DA APRENDIZAGEM EM STI" , 
+ "edicao" : "13-2005-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/73/64" , 
+ "authorList" : [  
+ "Edson Pinheiro Pimentel"  , "Nizam Omar"  , "Vilma Fernandes França" ] 
+} 
+, { "id" : "2257_2019" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "13-2005-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2257/2019" , 
+ "authorList" : [  
+ "Fábio Ferrentini Sampaio" ] 
+} 
+, { "id" : "2258_2020" , 
+ "paperName" : "WORKFLOW DE AUTORIA DE CURSOS PARA EDUCAÇÃO A DISTÂNCIA COM SUPORTE À COOPERAÇÃO" , 
+ "edicao" : "13-2005-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2258/2020" , 
+ "authorList" : [  
+ "Valéria de Araújo"  , "Nina Edelweiss" ] 
+} 
+, { "id" : "2259_2021" , 
+ "paperName" : "DISPOSITIVOS DE IMERSÃO EM AMBIENTES DE REALIDADE VIRTUAL" , 
+ "edicao" : "13-2005-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2259/2021" , 
+ "authorList" : [  
+ "Andrei Thomaz"  , "Cleci Maraschin"  , "Elisângela Zaniol"  , "Eny Schuch" ] 
+} 
+, { "id" : "2260_2022" , 
+ "paperName" : "AVALIAÇÃO FORMATIVA EM AMBIENTES DE EAD: UMA PROPOSTA DE SUPORTE TECNOLÓGICO E CONCEITUAL" , 
+ "edicao" : "13-2005-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2260/2022" , 
+ "authorList" : [  
+ "Joice Lee Otsuka"  , "Heloísa Vieira da Rocha" ] 
+} 
+, { "id" : "2262_2024" , 
+ "paperName" : "MÍDIAS DIGITAIS, SISTEMAS DE CONCEITOS E APRENDIZAGEM EM MATEMÁTICA" , 
+ "edicao" : "13-2005-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2262/2024" , 
+ "authorList" : [  
+ "Marcus Vinicius de Azevedo Basso"  , "Léa da Cruz Fagundes" ] 
+} 
+, { "id" : "2263_2025" , 
+ "paperName" : "COMO USAR ONTOLOGIAS NA AVALIAÇÃO DA APRENDIZAGEM SIGNIFICATIVA MEDIADA POR MAPAS CONCEITUAIS" , 
+ "edicao" : "13-2005-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2263/2025" , 
+ "authorList" : [  
+ "Francisco Edson Lopes da Rocha"  , "Júlio Valente da Costa Júnior"  , "Eloi Luiz Favero" ] 
+} 
+, { "id" : "2264_2026" , 
+ "paperName" : "O USO DOS RECURSOS DA INFORMÁTICA COMO INSTRUMENTO MEDIADOR NO PROCESSO DE ENSINO-APRENDIZAGEM DE PESSOAS COM NECESSIDADES EDUCATIVAS ESPECIAIS: UM RELATO DE EXPERIÊNCIA" , 
+ "edicao" : "13-2005-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2264/2026" , 
+ "authorList" : [  
+ "Sandra Lúcia Silva Araújo"  , "Karina Primiano Benassi" ] 
+} 
+, { "id" : "24_20" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "13-2005-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/24/20" , 
+ "authorList" : [  
+ "Fábio Ferrentini Sampaio" ] 
+} 
+, { "id" : "31_25" , 
+ "paperName" : "Estratégias Cognitivas como Soluções de Sucesso no Projeto do Material Institucional para EAD" , 
+ "edicao" : "13-2005-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/31/25" , 
+ "authorList" : [  
+ "Vânia Paula de Almeida Neris"  , "Junia Coutinho Anacleto"  , "Americo Talarico Neto"  , "Sílvia H. Zem-Mascarenhas" ] 
+} 
+, { "id" : "32_26" , 
+ "paperName" : "Informações Estatísticas e Visuais para a Mediação De Fóruns Educacionais" , 
+ "edicao" : "13-2005-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/32/26" , 
+ "authorList" : [  
+ "Hugo Fuks"  , "Marco Aurélio Gerosa"  , "Mariano Pimentel"  , "Denise Filippo"  , "Carlos J. P. Lucena" ] 
+} 
+, { "id" : "33_27" , 
+ "paperName" : "COG-LEARN – Uma Linguagem de Padrões para E-Learning" , 
+ "edicao" : "13-2005-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/33/27" , 
+ "authorList" : [  
+ "Americo Talarico Neto"  , "Junia Coutinho Anacleto"  , "Vânia Paula de Almeida Neris" ] 
+} 
+, { "id" : "34_28" , 
+ "paperName" : "A Utilização da Modelagem Computacional Qualitativa no Estudo do Sistema Predador-Presa" , 
+ "edicao" : "13-2005-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/34/28" , 
+ "authorList" : [  
+ "Thiéberson Gomes"  , "Laércio Ferracioli" ] 
+} 
+, { "id" : "35_29" , 
+ "paperName" : "Processo e Modelo de Identificação de Elementos Relevantes em Documentos Textuais a Partir de Informações da Prática de Definição de Atividades Instrucionais" , 
+ "edicao" : "14-2006-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/35/29" , 
+ "authorList" : [  
+ "Robinson Vida Noronha"  , "Clovis Torres Fernandes" ] 
+} 
+, { "id" : "36_30" , 
+ "paperName" : "Aprendizagem de Língua Assistida por Computador: Uma Abordagem Baseada em HPSG" , 
+ "edicao" : "14-2006-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/36/30" , 
+ "authorList" : [  
+ "Flávio M. Vaz da Costa"  , "José Carlos L. Ralha"  , "Célia G. Ralha" ] 
+} 
+, { "id" : "37_31" , 
+ "paperName" : "Projetos de Aprendizagem - Uma Experiência Mediada por Ambientes Telemáticos" , 
+ "edicao" : "14-2006-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/37/31" , 
+ "authorList" : [  
+ "Léa da Cruz Fagundes"  , "Rosane Aragón de Nevado"  , "Marcus Vinicius Basso"  , "Juliano Bitencourt"  , "Crediné Silva de Menezes"  , "Valéria Cristina P. C. Monteiro" ] 
+} 
+, { "id" : "38_32" , 
+ "paperName" : "Imergindo a Geometria Dinâmica em Sistemas de Educação a Distância: IGEOM e SAW" , 
+ "edicao" : "14-2006-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/38/32" , 
+ "authorList" : [  
+ "Leônidas de Oliveira Brandão"  , "Seiji Isotani"  , "Janine Gomes Moura" ] 
+} 
+, { "id" : "48_42" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "14-2006-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/48/42" , 
+ "authorList" : [  
+ "Fábio Ferrentini Sampaio" ] 
+} 
+, { "id" : "49_43" , 
+ "paperName" : "INDICATIVOS DE PARTICIPAÇÃO E CONVERSAÇÃO EM UMA COMUNIDADE VIRTUAL DE ENFERMAGEM E CONSIDERAÇÕES SOBRE A APRENDIZAGEM" , 
+ "edicao" : "14-2006-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/49/43" , 
+ "authorList" : [  
+ "Marcos Antônio Gomes Brandão"  , "Mauricio Abreu Pinto Peixoto"  , "Viviane Modesto Ferraz"  , "Roberta Pereira Coutinho" ] 
+} 
+, { "id" : "50_44" , 
+ "paperName" : "INTEGRANDO AMBIENTES DE ENSINO E APRENDIZAGEM NA WEB COM XML" , 
+ "edicao" : "14-2006-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/50/44" , 
+ "authorList" : [  
+ "Douglas Terêncio do Vale"  , "Maria Angélica de Oliveira Camargo-Brunneto" ] 
+} 
+, { "id" : "51_45" , 
+ "paperName" : "FORMAÇÃO DE GRUPOS COLABORATIVOS EM CURSOS A DISTÂNCIA VIA WEB: UM ESTUDO DE CASO UTILIZANDO TÉCNICAS DE INTELIGÊNCIA ARTIFICIAL" , 
+ "edicao" : "14-2006-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/51/45" , 
+ "authorList" : [  
+ "Sidnei Renato Silveira"  , "Dante Augusto Couto Barone" ] 
+} 
+, { "id" : "52_46" , 
+ "paperName" : "A INTELIGÊNCIA LINGÜÍSTICA EM EDUCAÇÃO A DISTÂNCIA" , 
+ "edicao" : "14-2006-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/52/46" , 
+ "authorList" : [  
+ "Sheila da Costa Oliveira" ] 
+} 
+, { "id" : "28_68" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "14-2006-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/28/68" , 
+ "authorList" : [  
+ "Fábio Ferrentini Sampaio" ] 
+} 
+, { "id" : "26_21" , 
+ "paperName" : "CV-MUZAR - UM AMBIENTE DE SUPORTE A COMUNIDADES VIRTUAIS PARA APOIO À APRENDIZAGEM EM MUSEUS" , 
+ "edicao" : "14-2006-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/26/21" , 
+ "authorList" : [  
+ "Antônio Carlos da Rocha Costa"  , "Ana Carolina Bertoletti De Marchi" ] 
+} 
+, { "id" : "27_22" , 
+ "paperName" : "UM AGENTE ANIMADO PARA AMBIENTES DE APRENDIZAGEM COLABORATIVOS" , 
+ "edicao" : "14-2006-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/27/22" , 
+ "authorList" : [  
+ "Eliseo Berni Reategui"  , "Rafael Fernando Ceron"  , "Elisa Boff"  , "Rosa Maria Vicari" ] 
+} 
+, { "id" : "29_24" , 
+ "paperName" : "ESCRITA COOPERATIVA NA PROMOÇÃO DA APRENDIZAGEM" , 
+ "edicao" : "14-2006-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/29/24" , 
+ "authorList" : [  
+ "Ana Paula Brandão Lopes"  , "Joseane Pereira Rodrigues"  , "Mirian Lima de Souza Dadoorian"  , "Crediné Silva de Menezes" ] 
+} 
+, { "id" : "46_40" , 
+ "paperName" : "O USO DE TÉCNICAS DE RECOMENDAÇÃO EM UM SISTEMA PARA APOIO À APRENDIZAGEM COLABORATIVA" , 
+ "edicao" : "14-2006-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/46/40" , 
+ "authorList" : [  
+ "Daniel Lichtnow"  , "Ramiro Saldaña Garin"  , "Luiz A. Moro Palazzo"  , "Stanley Loh"  , "Adriana Justin Cerveira Kampff"  , "Tiago Primo"  , "José Palazzo Moreira de Oliveira"  , "José Valdeni de Lima" ] 
+} 
+, { "id" : "47_41" , 
+ "paperName" : "DESIGN DE UMA FERRAMENTA PARA CONSTRUÇÃO COLETIVA DE CONTEÚDOS EDUCACIONAIS" , 
+ "edicao" : "14-2006-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/47/41" , 
+ "authorList" : [  
+ "Janne Yukiko Yoshikawa Oeiras"  , "Ricardo Luís Lachi" ] 
+} 
+, { "id" : "57_47" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "15-2007-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/57/47" , 
+ "authorList" : [  
+ "Lucia Maria Martins Giraffa" ] 
+} 
+, { "id" : "58_48" , 
+ "paperName" : "Interação Social e Mediação em Ambientes Digitais de Aprendizagem com Sujeitos com Autismo" , 
+ "edicao" : "15-2007-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/58/48" , 
+ "authorList" : [  
+ "Liliana M Passerino"  , "Lucila M. Costi Santarosa"  , "Liane M. R. Tarouco" ] 
+} 
+, { "id" : "59_49" , 
+ "paperName" : "Sistemas de Autoria para Construção de Ambientes Interativos de Aprendizagem Baseada em Agentes" , 
+ "edicao" : "15-2007-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/59/49" , 
+ "authorList" : [  
+ "Ig Bittencourt Bittencourt"  , "Evandro Costa"  , "João Guilherme"  , "Baldoino Fonseca"  , "Camila Nunes" ] 
+} 
+, { "id" : "60_50" , 
+ "paperName" : "COGNITOR: Um Framework Baseado na Linguagem de Padrões COG-LEARN" , 
+ "edicao" : "15-2007-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/60/50" , 
+ "authorList" : [  
+ "Junia Coutinho Anacleto"  , "Aparecido Fabiano Carvalho"  , "Muriel de Souza Godoi"  , "Américo Talarico Neto"  , "Vânia Paula Néris" ] 
+} 
+, { "id" : "61_51" , 
+ "paperName" : "Experiências de Informática Educativa no Município de Belém: Um Quadro Inicial de Diagnóstico" , 
+ "edicao" : "15-2007-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/61/51" , 
+ "authorList" : [  
+ "Benedito J. Pinheiro Ferreira" ] 
+} 
+, { "id" : "62_52" , 
+ "paperName" : "Integração de Alunos Monitores em Salas de Informática: Uma Avaliação" , 
+ "edicao" : "15-2007-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/62/52" , 
+ "authorList" : [  
+ "Tel Amiel"  , "Gustavo Morceli" ] 
+} 
+, { "id" : "71_67" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "15-2007-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/71/67" , 
+ "authorList" : [  
+ "Lucia Maria Martins Giraffa" ] 
+} 
+, { "id" : "63_53" , 
+ "paperName" : "Modelos de Educação Superior a Distância e Implementação da Universidade Aberta do Brasil" , 
+ "edicao" : "15-2007-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/63/53" , 
+ "authorList" : [  
+ "Celso José Costa" ] 
+} 
+, { "id" : "64_59" , 
+ "paperName" : "Customizando Ambientes na Web para Língua Brasileira de Sinais Usando Web-Services" , 
+ "edicao" : "15-2007-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/64/59" , 
+ "authorList" : [  
+ "Vinícius Costa Souza"  , "Sérgio Crespo Pinto" ] 
+} 
+, { "id" : "65_54" , 
+ "paperName" : "A TV Digital Interativa como Ferramenta de Apoio à Educação Infantil" , 
+ "edicao" : "15-2007-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/65/54" , 
+ "authorList" : [  
+ "Tatiana Aires Tavares"  , "Celso Alberto Santos"  , "Thiago Rocha Assis"  , "Clarissa Braga Pinho"  , "Germano Mariniello Carvalho"  , "Clarissa Santana Costa" ] 
+} 
+, { "id" : "66_55" , 
+ "paperName" : "Planejamento e Análise de Sessões Colaborativas Utilizando Teorias de Aprendizagem e Ontologias" , 
+ "edicao" : "15-2007-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/66/55" , 
+ "authorList" : [  
+ "Seiji Isotani"  , "Riichiro Mizoguchi" ] 
+} 
+, { "id" : "67_56" , 
+ "paperName" : "Análise da Aprendizagem Significativa em Ambientes de Escrita Colaborativa Apoiada por Computador" , 
+ "edicao" : "15-2007-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/67/56" , 
+ "authorList" : [  
+ "Nelkis de la Orden Medina"  , "Paulo José de Freitas Filho" ] 
+} 
+, { "id" : "10_9" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "15-2007-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/10/9" , 
+ "authorList" : [  
+ "Lucia Maria Martins Giraffa" ] 
+} 
+, { "id" : "12_10" , 
+ "paperName" : "DEZ ANOS DA RBIE: RETROSPECTIVA E DESAFIOS" , 
+ "edicao" : "15-2007-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/12/10" , 
+ "authorList" : [  
+ "Marcos da Fonseca Elia" ] 
+} 
+, { "id" : "13_11" , 
+ "paperName" : "RECONHECIMENTO E AGRUPAMENTO DE OBJETOS DE APRENDIZAGEM SEMELHANTES" , 
+ "edicao" : "15-2007-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/13/11" , 
+ "authorList" : [  
+ "Raphael Ghelman"  , "Sean W. M. Siqueira"  , "Maria Helena L. B. Braz"  , "Rubens N. Melo" ] 
+} 
+, { "id" : "23_19" , 
+ "paperName" : "FÁBRICA DE ADEQUAÇÃO DE OBJETOS DE APRENDIZAGEM" , 
+ "edicao" : "15-2007-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/23/19" , 
+ "authorList" : [  
+ "Ricardo de Andrade Kratz"  , "Sérgio Crespo C S Pinto"  , "Marcelo Scopel"  , "Jorge Barbosa" ] 
+} 
+, { "id" : "16_12" , 
+ "paperName" : "LOCPN: REDES DE PETRI COLORIDAS NA PRODUÇÃO DE OBJETOS DE APRENDIZAGEM" , 
+ "edicao" : "15-2007-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/16/12" , 
+ "authorList" : [  
+ "Maria de Fátima Costa de Souza"  , "Danielo G. Gomes"  , "Giovanni Cordeiro Barroso"  , "Cidcley Teixeira de Souza"  , "José Aires de Castro Filho"  , "Mauro Cavalcante Pequeno"  , "Rossana M. C. Andrade" ] 
+} 
+, { "id" : "17_13" , 
+ "paperName" : "COMPUTAÇÃO MÓVEL E UBÍQUA NO CONTEXTO DE UMA GRADUAÇÃO DE REFERÊNCIA" , 
+ "edicao" : "15-2007-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/17/13" , 
+ "authorList" : [  
+ "Jorge Barbosa"  , "Rodrigo Hahn"  , "Solon Rabello"  , "Sérgio Crespo C. S. Pinto"  , "Débora Nice Ferrari Barbosa" ] 
+} 
+, { "id" : "74_66" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "16-2008-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/74/66" , 
+ "authorList" : [  
+ "Lucia Maria Martins Giraffa" ] 
+} 
+, { "id" : "18_14" , 
+ "paperName" : "GENVIRTUAL: UM JOGO MUSICAL PARA REABILITAÇÃO DE INDIVÍDUOS COM NECESSIDADES ESPECIAIS" , 
+ "edicao" : "16-2008-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/18/14" , 
+ "authorList" : [  
+ "Ana Grasielle Dionísio Corrêa"  , "Gilda Aparecida de Assis"  , "Marilena do Nascimento"  , "Roseli de Deus Lopes" ] 
+} 
+, { "id" : "19_15" , 
+ "paperName" : "PROJETO E DESENVOLVIMENTO DE UM SISTEMA MULTI-AGENTES PARA OBJETOS INTELIGENTES DE APRENDIZAGEM BASEADO NO PADRÃO SCORM" , 
+ "edicao" : "16-2008-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/19/15" , 
+ "authorList" : [  
+ "Júlia Marques Carvalho da Silva"  , "Natanael Bavaresco"  , "Ricardo Azambuja Silveira" ] 
+} 
+, { "id" : "20_16" , 
+ "paperName" : "APERFEIÇOAMENTO AUTOMÁTICO DO PERFIL DO APRENDIZ EM AMBIENTES DE EDUCAÇÃO UBÍQUA" , 
+ "edicao" : "16-2008-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/20/16" , 
+ "authorList" : [  
+ "Darci Levis"  , "Jorge L. V. Barbosa"  , "Sérgio Crespo C. S. Pinto" ] 
+} 
+, { "id" : "21_17" , 
+ "paperName" : "DESIGN COM CRIANÇAS: DA PRÁTICA A UM MODELO DE PROCESSO" , 
+ "edicao" : "16-2008-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/21/17" , 
+ "authorList" : [  
+ "Amanda Meincke Melo"  , "M. Cecília C. Baranauskas"  , "Sílvia Cristina de Matos Soares" ] 
+} 
+, { "id" : "22_18" , 
+ "paperName" : "USO DE COMPUTADORES NO ENSINO FUNDAMENTAL E MÉDIO E SEUS RESULTADOS EMPÍRICOS: UMA REVISÃO SISTEMÁTICA DA LITERATURA" , 
+ "edicao" : "16-2008-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/22/18" , 
+ "authorList" : [  
+ "André Covic Barros"  , "Jacques Wainer"  , "Kleucio Claudio"  , "Luiz Renato Ribeiro Ferreira"  , "Tom Dwyer" ] 
+} 
+, { "id" : "76_74" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "16-2008-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/76/74" , 
+ "authorList" : [  
+ "Lucia Maria Martins Giraffa" ] 
+} 
+, { "id" : "75_73" , 
+ "paperName" : "REFERENCIAL TEÓRICO CONSTRUTIVISTA PARA AVALIAÇÃO DE SOFTWARE EDUCATIVO" , 
+ "edicao" : "16-2008-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/75/73" , 
+ "authorList" : [  
+ "Alex Sandro Gomes" ] 
+} 
+, { "id" : "77_78" , 
+ "paperName" : "UM AMBIENTE VIRTUAL PARA A APRENDIZAGEM DE CONCEITOS SOBRE ONDAS SONORAS: CONCEPÇÃO E PRIMEIRAS ANÁLISES" , 
+ "edicao" : "16-2008-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/77/78" , 
+ "authorList" : [  
+ "Rodrigo Claudino Diogo"  , "Shirley Takeco Gobara" ] 
+} 
+, { "id" : "78_75" , 
+ "paperName" : "PERCEPÇÃO EM GROUPWARE EDUCACIONAIS" , 
+ "edicao" : "16-2008-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/78/75" , 
+ "authorList" : [  
+ "Socorro Vânia Lourenço Alves"  , "Enoque Calvino Melo Alves"  , "Alex Sandro Gomes" ] 
+} 
+, { "id" : "79_76" , 
+ "paperName" : "MODELO PARA COMPARTILHAMENTO DE PERFIS DE APRENDIZ ENTRE SISTEMAS DE APRENDIZAGEM NA WEB" , 
+ "edicao" : "16-2008-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/79/76" , 
+ "authorList" : [  
+ "Daniela Leal Musa"  , "André Luiz Brandão"  , "José Palazzo Moreira de Oliveira" ] 
+} 
+, { "id" : "80_77" , 
+ "paperName" : "EFEITOS DA MANIPULAÇÃO DIRETA REFLEXIVA NA RESOLUÇÃO DE PROBLEMAS SOBRE ESTRUTURAS ADITIVAS" , 
+ "edicao" : "16-2008-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/80/77" , 
+ "authorList" : [  
+ "Ana Emília de Melo Queiroz"  , "Alex Sandro Gomes" ] 
+} 
+, { "id" : "39_33" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "16-2008-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/39/33" , 
+ "authorList" : [  
+ "Lucia Maria Martins Giraffa" ] 
+} 
+, { "id" : "40_34" , 
+ "paperName" : "Conflito Sócio-cognitivo e Estilos de Aprendizagem na Formação de Grupos para o Aprendizado Colaborativo de Programação de Computadores" , 
+ "edicao" : "16-2008-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/40/34" , 
+ "authorList" : [  
+ "Juan Manuel Adán-Coello"  , "Wiris Serafim de Menezes"  , "Eustáquio São José de Faria"  , "Carlos Miguel Tobar" ] 
+} 
+, { "id" : "41_35" , 
+ "paperName" : "Computador de Mão: Um Recurso Didático na Graduação em Medicina" , 
+ "edicao" : "16-2008-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/41/35" , 
+ "authorList" : [  
+ "Daniel Lico dos Anjos Afonso"  , "Monica Parente Ramos"  , "Jacques Wainer" ] 
+} 
+, { "id" : "42_36" , 
+ "paperName" : "SOO Brasileiro: Aprendizagem e Diversão no XO" , 
+ "edicao" : "16-2008-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/42/36" , 
+ "authorList" : [  
+ "Fernanda Brandão Silva"  , "Roberto Romani"  , "Maria Cecília Calani Baranauskas" ] 
+} 
+, { "id" : "43_37" , 
+ "paperName" : "Representação da Estruturação de Segmentos de Objetos de Aprendizagem Multimídia: Uma Abordagem Baseada em Meta-modelos de Conteúdo" , 
+ "edicao" : "16-2008-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/43/37" , 
+ "authorList" : [  
+ "Edmar Welington Oliveira"  , "Sean Wolfgand M. Siqueira"  , "Maria Helena L. B. Braz" ] 
+} 
+, { "id" : "44_38" , 
+ "paperName" : "UMA ARQUITETURA PARA DISTRIBUIÇÃO DE AMBIENTES VIRTUAIS DE REALIDADE AUMENTADA APLICADA À EDUCAÇÃO" , 
+ "edicao" : "16-2008-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/44/38" , 
+ "authorList" : [  
+ "Wender Antônio da Silva"  , "Marcos Wagner de Souza Ribeiro"  , "Edgard Lamounier Júnior"  , "Alexandre Cardoso" ] 
+} 
+, { "id" : "45_39" , 
+ "paperName" : "APRENDENDO SOBRE ACESSIBILIDADE E CONSTRUÇÃO DE WEBSITES PARA TODOS" , 
+ "edicao" : "16-2008-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/45/39" , 
+ "authorList" : [  
+ "Vagner F. de Santana"  , "Leonelo D. A. Almeida"  , "Maria Cecília Calani Baranauskas" ] 
+} 
+, { "id" : "1_1" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "17-2009-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1/1" , 
+ "authorList" : [  
+ "Sérgio Crespo" ] 
+} 
+, { "id" : "2_2" , 
+ "paperName" : "A Qualidade dos Processos Interativos como Chave para a Avaliação da Efetividade de Cursos a Distância" , 
+ "edicao" : "17-2009-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2/2" , 
+ "authorList" : [  
+ "Francisco Villa Ulhôa Botelho"  , "Rosa Maria Vicari" ] 
+} 
+, { "id" : "3_3" , 
+ "paperName" : "Uma odisséia no ciberespaço: O software educacional dos tutoriais aos mundos virtuais" , 
+ "edicao" : "17-2009-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/3/3" , 
+ "authorList" : [  
+ "Lucia Maria Martins Giraffa" ] 
+} 
+, { "id" : "4_4" , 
+ "paperName" : "Estado da Arte em Web Semântica e Web 2.0: Potencialidades e Tendências da Nova Geração de Ambientes de Ensino na Internet" , 
+ "edicao" : "17-2009-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/4/4" , 
+ "authorList" : [  
+ "Seiji Isotani"  , "Riichiro Mizoguchi"  , "Ig Ibert Bittencourt"  , "Evandro Costa" ] 
+} 
+, { "id" : "5_5" , 
+ "paperName" : "Um Ambiente para a Prática Remota de Aulas Laboratoriais de Física ( determinação da viscosidade de líquidos)" , 
+ "edicao" : "17-2009-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/5/5" , 
+ "authorList" : [  
+ "Cláudio Rodolfo Sousa de Oliveira"  , "Adilson de Lima Pereira"  , "Ivanor Nunes de Oliveira"  , "Hélio Lopes dos Santos" ] 
+} 
+, { "id" : "6_6" , 
+ "paperName" : "Um Experimento sobre o Emprego de TiddlyWiki como Mídia para Aulas e Exercícios na Área de Exatas" , 
+ "edicao" : "17-2009-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/6/6" , 
+ "authorList" : [  
+ "Carlos Henrique Quartucci Forster"  , "Elen Collaço de Oliveira" ] 
+} 
+, { "id" : "7_7" , 
+ "paperName" : "Inspeção Semiótica do ColabWeb: Proposta de Adaptações para o Contexto da Aprendizagem de Programação" , 
+ "edicao" : "17-2009-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/7/7" , 
+ "authorList" : [  
+ "Thais Castro"  , "Hugo Fuks" ] 
+} 
+, { "id" : "93_81" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "17-2009-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/93/81" , 
+ "authorList" : [  
+ "Sergio Crespo" ] 
+} 
+, { "id" : "94_82" , 
+ "paperName" : "Trazendo Multimodalidade para o Design de Ambientes de Aprendizagem Aprimorados pela Tecnologia" , 
+ "edicao" : "17-2009-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/94/82" , 
+ "authorList" : [  
+ "Heloisa Moura"  , "Hugo Fuks" ] 
+} 
+, { "id" : "96_83" , 
+ "paperName" : "Resolução de Problemas e Colaboração a Distância: modelo, artefatos e sistema" , 
+ "edicao" : "17-2009-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/96/83" , 
+ "authorList" : [  
+ "Diego Samir Melo-Solarte"  , "M. Cecília C. Baranauskas" ] 
+} 
+, { "id" : "97_84" , 
+ "paperName" : "Uma Contribuição para a Adaptabilidade de Ambientes Virtuais de Aprendizagem para Dispositivos Móveis" , 
+ "edicao" : "17-2009-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/97/84" , 
+ "authorList" : [  
+ "Viviane F. Bartholo"  , "Marília A. Amaral"  , "Maria Istela Cagnin" ] 
+} 
+, { "id" : "98_85" , 
+ "paperName" : "Usabilidade e Interatividade em Sistemas Web para Cursos Online" , 
+ "edicao" : "17-2009-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/98/85" , 
+ "authorList" : [  
+ "Rejane Cunha Freitas"  , "Marlene de Alencar Dutra" ] 
+} 
+, { "id" : "99_86" , 
+ "paperName" : "Um Caderno Digital nos laptops educacionais: proposta conceitual e ferramenta" , 
+ "edicao" : "17-2009-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/99/86" , 
+ "authorList" : [  
+ "Diego Soares Cardoso"  , "M. Cecília C. Baranauskas" ] 
+} 
+, { "id" : "1199_1102" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "17-2009-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1199/1102" , 
+ "authorList" : [  
+ "Sérgio Crespo" ] 
+} 
+, { "id" : "1022_1016" , 
+ "paperName" : "Impediments to Learning Object Reuse and Openness as a Potential Solution" , 
+ "edicao" : "17-2009-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1022/1016" , 
+ "authorList" : [  
+ "David Wiley" ] 
+} 
+, { "id" : "1023_1015" , 
+ "paperName" : "Metas do design pedagógico: um olhar na construção de materiais educacionais digitais" , 
+ "edicao" : "17-2009-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1023/1015" , 
+ "authorList" : [  
+ "Patricia Alejandra Behar"  , "Cristina Alba Wildt Torrezzan" ] 
+} 
+, { "id" : "1024_1103" , 
+ "paperName" : "Um Modelo para Geração de Perfis de Usuários Baseado em Técnicas de Psicometria" , 
+ "edicao" : "17-2009-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1024/1103" , 
+ "authorList" : [  
+ "Marcelo Henrique Euzebio Batista"  , "João Ricardo Bittencourt"  , "Jorge Luis Victória Barbosa"  , "Sergio Crespo C S Pinto" ] 
+} 
+, { "id" : "1025_1013" , 
+ "paperName" : "Trigonometria Dinâmica: unidade de aprendizagem online para estudo de Trigonometria" , 
+ "edicao" : "17-2009-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1025/1013" , 
+ "authorList" : [  
+ "Larissa de Sousa Moreira"  , "Gilmara Teixeira Barcelos"  , "Silvia Cristina Freitas Batista"  , "Liliana Maria Passerino" ] 
+} 
+, { "id" : "1026_1011" , 
+ "paperName" : "Especificação e Verificação Formal de um modelo de STI-PBL por Redes de Petri Coloridas" , 
+ "edicao" : "17-2009-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1026/1011" , 
+ "authorList" : [  
+ "Eliane Santiago Ramos"  , "José M. Parente de Oliveira" ] 
+} 
+, { "id" : "1027_1010" , 
+ "paperName" : "Avaliação de software educativo com reconhecimento de fala em indivíduos com desenvolvimento normal e atraso de linguagem" , 
+ "edicao" : "17-2009-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1027/1010" , 
+ "authorList" : [  
+ "Henildes José Carrer"  , "Ednaldo Brigante Pizzolato"  , "Celso Goyos" ] 
+} 
+, { "id" : "1244_1112" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "18-2010-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1244/1112" , 
+ "authorList" : [  
+ "Alexandre Direne"  , "André Luís Alice Raabe"  , "Ig Ibert Bittencourt"  , "Sérgio Crespo" ] 
+} 
+, { "id" : "1245_1113" , 
+ "paperName" : "Conselho Editorial" , 
+ "edicao" : "18-2010-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1245/1113" , 
+ "authorList" : [  
+ "Sérgio Crespo" ] 
+} 
+, { "id" : "1211_1105" , 
+ "paperName" : "Amadeus-TV: Portal Educacional na TV Digital Integrado a um Sistema de Gestão de Aprendizado" , 
+ "edicao" : "18-2010-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1211/1105" , 
+ "authorList" : [  
+ "Bruno Monteiro"  , "Thiago Monteiro Prota"  , "Alex Sandro Gomes"  , "Fernando F. de Souza" ] 
+} 
+, { "id" : "1213_1106" , 
+ "paperName" : "i-collaboration: Um modelo de colaboração inteligente personalizada para ambientes de EAD" , 
+ "edicao" : "18-2010-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1213/1106" , 
+ "authorList" : [  
+ "Eduardo Araujo Oliveira"  , "Patrícia Tedesco" ] 
+} 
+, { "id" : "1215_1111" , 
+ "paperName" : "Bipide – Ambiente de Desenvolvimento Integrado para a Arquitetura dos Processadores BIP" , 
+ "edicao" : "18-2010-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1215/1111" , 
+ "authorList" : [  
+ "Paulo Viniccius Vieira"  , "André Luís Alice Raabe"  , "Cesar Albenes Zeferino" ] 
+} 
+, { "id" : "1207_1107" , 
+ "paperName" : "Comunicação e Aprendizagem Matemática On-line: Um Estudo com o Editor Científico ROODA Exata" , 
+ "edicao" : "18-2010-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1207/1107" , 
+ "authorList" : [  
+ "Márcia Rodrigues Notare"  , "Patrícia Alejandra Behar" ] 
+} 
+, { "id" : "1214_1110" , 
+ "paperName" : "Uma abordagem dialógica para a aquisição de habilidades táticas em jogos educacionais" , 
+ "edicao" : "18-2010-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1214/1110" , 
+ "authorList" : [  
+ "Antonio Hobmeir Neto"  , "Alexandre Direne" ] 
+} 
+, { "id" : "1210_1104" , 
+ "paperName" : "Segmentação de Objetos de Aprendizagem e Abordagens Para Sua Utilização" , 
+ "edicao" : "18-2010-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1210/1104" , 
+ "authorList" : [  
+ "Edmar Welington Oliveira"  , "Sean Wolfgand M. Siqueira"  , "Maria Helena L. B. Braz" ] 
+} 
+, { "id" : "1212_1109" , 
+ "paperName" : "Zorelha: Um Objeto de Aprendizagem Para Auxiliar o Desenvolvimento da Percepção Musical em Crianças de 4 a 6 Anos" , 
+ "edicao" : "18-2010-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1212/1109" , 
+ "authorList" : [  
+ "Elieser Ademir de Jesus"  , "Mônica Zewe Uriarte"  , "André Luis Alice Raabe" ] 
+} 
+, { "id" : "1208_1108" , 
+ "paperName" : "Laboratório de Linguagens Formais" , 
+ "edicao" : "18-2010-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1208/1108" , 
+ "authorList" : [  
+ "Robson da Silva Aguiar"  , "Janne Yukiko Yoshikawa Oeiras" ] 
+} 
+, { "id" : "1258_1119" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "18-2010-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1258/1119" , 
+ "authorList" : [  
+ "Ismar Frango Silveira" ] 
+} 
+, { "id" : "1259_1120" , 
+ "paperName" : "Conselho Editorial" , 
+ "edicao" : "18-2010-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1259/1120" , 
+ "authorList" : [  
+ "Sérgio Crespo" ] 
+} 
+, { "id" : "1205_1114" , 
+ "paperName" : "Aprendizagem significativa, codificação dual e objetos de aprendizagem" , 
+ "edicao" : "18-2010-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1205/1114" , 
+ "authorList" : [  
+ "Romero Tavares" ] 
+} 
+, { "id" : "1217_1115" , 
+ "paperName" : "Modelo de Desenvolvimento de Objetos de Aprendiagem Baseado em Metodologias Ágeis e Scaffoldings" , 
+ "edicao" : "18-2010-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1217/1115" , 
+ "authorList" : [  
+ "Fábio Roberto Lapolli"  , "Cristiane Moura Cruz"  , "Claudia Lage Rebello Motta"  , "Carlo Emmanuel Tolla" ] 
+} 
+, { "id" : "1221_1116" , 
+ "paperName" : "Karma: um ambiente para o aprendizado de síntese de funções Booleanas" , 
+ "edicao" : "18-2010-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1221/1116" , 
+ "authorList" : [  
+ "Carlos Eduardo Klock"  , "Renato Perez Ribas"  , "André Inácio Reis" ] 
+} 
+, { "id" : "1235_1117" , 
+ "paperName" : "Percepções de graduandos em química sobre atividade realizada no Ambiente Virtual Cursos on-Line" , 
+ "edicao" : "18-2010-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1235/1117" , 
+ "authorList" : [  
+ "Jerino Queiroz Ferreira"  , "Salete Linhares Queiroz" ] 
+} 
+, { "id" : "1239_1118" , 
+ "paperName" : "Utilização da Ferramenta de Modelagem Dinâmica JLinkIt no Aprendizado Exploratório de Física no Ensino Médio" , 
+ "edicao" : "18-2010-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1239/1118" , 
+ "authorList" : [  
+ "Cristiane Barbosa Pinheiro de Oliveira"  , "Fábio Ferrentini Sampaio"  , "Marcos da Fonseca Elia" ] 
+} 
+, { "id" : "1281_1129" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "18-2010-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1281/1129" , 
+ "authorList" : [  
+ "Ismar Frango Silveira" ] 
+} 
+, { "id" : "1282_1132" , 
+ "paperName" : "Corpo Editorial" , 
+ "edicao" : "18-2010-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1282/1132" , 
+ "authorList" : [  
+ "Sérgio Crespo" ] 
+} 
+, { "id" : "1225_1122" , 
+ "paperName" : "Ateliê de Objetos de Aprendizagem : Uma Abordagem para o Ensino de Computação em Cursos Técnicos" , 
+ "edicao" : "18-2010-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1225/1122" , 
+ "authorList" : [  
+ "Luiz Francisco Dias Pereira"  , "Fabio Roberto Lapolli"  , "Fábio Ferrentini Sampaio"  , "Claudia Lage Rebello Motta"  , "Carlo Emmanoel Tolla de Oliveira" ] 
+} 
+, { "id" : "1254_1123" , 
+ "paperName" : "Análise da aprendizagem mediada por uma interface educativa voltada para resolução situações aditivas com suporte diagramático." , 
+ "edicao" : "18-2010-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1254/1123" , 
+ "authorList" : [  
+ "Ana Emilia de Melo Queiroz"  , "Alex Sandro Gomes"  , "Claudia Roberta Araújo Gomes"  , "Soraia de Oliveira Mota Barreto"  , " " ] 
+} 
+, { "id" : "1257_1124" , 
+ "paperName" : "Processos colaborativos mediados pelo computador e as contribuições da teoria da atividade" , 
+ "edicao" : "18-2010-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1257/1124" , 
+ "authorList" : [  
+ "Daniela Karine Ramos" ] 
+} 
+, { "id" : "1275_1126" , 
+ "paperName" : "RoboFácil: Especificação e Implementação de um Kit de Robótica para a Realidade Educacional Brasileira" , 
+ "edicao" : "18-2010-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1275/1126" , 
+ "authorList" : [  
+ "Leonardo Cunha de Miranda"  , "Fábio Ferrentini Sampaio"  , "José Antonio dos Santos Borges" ] 
+} 
+, { "id" : "1280_1133" , 
+ "paperName" : "Utilização de Objetos de Aprendizagem Abertos SCORM para dar suporte à Avaliação Formativa" , 
+ "edicao" : "18-2010-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1280/1133" , 
+ "authorList" : [  
+ "Renato Luis de Souza Dutra"  , "Liane Margarida Rockenbach Tarouco"  , "Liliana Passerino" ] 
+} 
+, { "id" : "1326_1155" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "19-2011-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1326/1155" , 
+ "authorList" : [  
+ "André Raabe" ] 
+} 
+, { "id" : "1327_1167" , 
+ "paperName" : "Conselho Editorial" , 
+ "edicao" : "19-2011-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1327/1167" , 
+ "authorList" : [  
+ " " ] 
+} 
+, { "id" : "1290_1158" , 
+ "paperName" : "Rede de Conceitos: tecnologia de mineração de texto para apoiar práticas pedagógicas no acompanhamento da escrita coletiva" , 
+ "edicao" : "19-2011-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1290/1158" , 
+ "authorList" : [  
+ "Alexandra Lorandi Macedo"  , "Patricia Alejandra Behar"  , "Eliseo Berni Reategui" ] 
+} 
+, { "id" : "1291_1159" , 
+ "paperName" : "Arquitetura para Compartilhamento de Objetos de Aprendizagem entre Instituições de Ensino" , 
+ "edicao" : "19-2011-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1291/1159" , 
+ "authorList" : [  
+ "Rafael de Santiago"  , "André Luís Alice Raabe" ] 
+} 
+, { "id" : "1294_1160" , 
+ "paperName" : "Construindo Aplicações de T-Learning Integradas com uma Plataforma Web Educacional Semântica" , 
+ "edicao" : "19-2011-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1294/1160" , 
+ "authorList" : [  
+ "Douglas Véras"  , "Ig Ibert Bittencourt"  , "Evandro Costa" ] 
+} 
+, { "id" : "1296_1161" , 
+ "paperName" : "Um Mecanismo para a Descoberta Automática de Ambientes Educacionais" , 
+ "edicao" : "19-2011-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1296/1161" , 
+ "authorList" : [  
+ "Lucas Monteiro Braz"  , "Ig Ibert Bittencourt"  , "Evandro de Barros Costa" ] 
+} 
+, { "id" : "1297_1162" , 
+ "paperName" : "Uma Arquitetura de Ambiente de Aprendizagem para aferir o conhecimento do aluno" , 
+ "edicao" : "19-2011-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1297/1162" , 
+ "authorList" : [  
+ "Leandro da Silva Foly"  , "Geórgia Rodrigues Gomes" ] 
+} 
+, { "id" : "1298_1154" , 
+ "paperName" : "Um arcabouço que enfatiza a retroação a contextos de erro na solução de problemas" , 
+ "edicao" : "19-2011-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1298/1154" , 
+ "authorList" : [  
+ "Diego Marczal"  , "Alexandre Ibraim Direne" ] 
+} 
+, { "id" : "1299_1153" , 
+ "paperName" : "Modelos para a Construção de Sistemas Multiagentes: Um Estudo de Caso em Sistemas Tutores Inteligentes" , 
+ "edicao" : "19-2011-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1299/1153" , 
+ "authorList" : [  
+ "Marlos Tacio Silva"  , "Ig Ibert Bittencourt"  , "Evandro Costa" ] 
+} 
+, { "id" : "1300_1148" , 
+ "paperName" : "Modelos e Ferramentas para a Construção de Sistemas Educacionais Adaptativos e Semânticos" , 
+ "edicao" : "19-2011-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1300/1148" , 
+ "authorList" : [  
+ "Ig Ibert Bittencourt"  , "Evandro Costa" ] 
+} 
+, { "id" : "1293_1147" , 
+ "paperName" : "Interação e Autismo: Uso de Agentes Inteligentes para Detectar Déficits de Comunicação em Ambientes Síncronos" , 
+ "edicao" : "19-2011-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1293/1147" , 
+ "authorList" : [  
+ "Roberto dos Santos Rabello"  , "Liliana Maria Passerino"  , "Rosa Maria Vicari"  , "Ricardo Azambuja Silveira" ] 
+} 
+, { "id" : "1331_1178" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "19-2011-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1331/1178" , 
+ "authorList" : [  
+ "André Raabe" ] 
+} 
+, { "id" : "1332_1179" , 
+ "paperName" : "Conselho Editorial" , 
+ "edicao" : "19-2011-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1332/1179" , 
+ "authorList" : [  
+ " " ] 
+} 
+, { "id" : "1301_1172" , 
+ "paperName" : "Mineração de Dados Educacionais: Oportunidades para o Brasil" , 
+ "edicao" : "19-2011-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1301/1172" , 
+ "authorList" : [  
+ "Ryan Baker"  , "Seiji Isotani"  , "Adriana Carvalho" ] 
+} 
+, { "id" : "1274_1173" , 
+ "paperName" : "NeuroFURG: uma ferramenta de apoio ao ensino de Redes Neurais Artificiais" , 
+ "edicao" : "19-2011-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1274/1173" , 
+ "authorList" : [  
+ "Carlos Alberto Madsen"  , "Diana Francisca Adamatti" ] 
+} 
+, { "id" : "1267_1174" , 
+ "paperName" : "Ferramenta de apoio para o aprendizado ativo usando dispositivos com caneta eletrônica" , 
+ "edicao" : "19-2011-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1267/1174" , 
+ "authorList" : [  
+ "Ricardo Edgard Caceffo"  , "Heloisa Vieira da Rocha"  , "Rodolfo Jardim de Azevedo" ] 
+} 
+, { "id" : "1242_1175" , 
+ "paperName" : "A  educação  em  ambientes  virtuais: proposição  de  recursos  computacionais  para  aumentar  a  eficiência  do processo ensino-aprendizado" , 
+ "edicao" : "19-2011-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1242/1175" , 
+ "authorList" : [  
+ "Lissandra Luvizão Lazzarotto"  , "Alcione de Paiva Oliveira"  , "José Luis Braga"  , "Frederico José Vieira dos Passos" ] 
+} 
+, { "id" : "1276_1176" , 
+ "paperName" : "Detecção e Avaliação de Cola em Provas Escolares Utilizando Mineração de Texto: um Estudo de Caso" , 
+ "edicao" : "19-2011-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1276/1176" , 
+ "authorList" : [  
+ "Elmano Ramalho Cavalcanti"  , "Elmano Pontes Cavalcanti"  , "Carlos Eduardo Pires"  , "Rodrigo Alves Costa"  , "Caroline Ramalho Cavalcanti" ] 
+} 
+, { "id" : "1260_1177" , 
+ "paperName" : "Proposta de um instrumento digital para a verificação do comportamento de motoristas" , 
+ "edicao" : "19-2011-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1260/1177" , 
+ "authorList" : [  
+ "Amanda Bifano Balbinot"  , "Milton Antônio Zaro" ] 
+} 
+, { "id" : "1350_1186" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "19-2011-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1350/1186" , 
+ "authorList" : [  
+ "André Raabe" ] 
+} 
+, { "id" : "1351_1187" , 
+ "paperName" : "Conselho Editorial" , 
+ "edicao" : "19-2011-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1351/1187" , 
+ "authorList" : [  
+ " " ] 
+} 
+, { "id" : "1278_1181" , 
+ "paperName" : "Dificuldades durante a produção de e-Conteúdos para formação em Ciência e Tecnologia: quais são e como solucioná-las?" , 
+ "edicao" : "19-2011-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1278/1181" , 
+ "authorList" : [  
+ "Geraldo Wellington Fernandes"  , "Carlos Alberto Ferreira" ] 
+} 
+, { "id" : "1228_1180" , 
+ "paperName" : "Avaliação de Ferramentas de Autoria Gratuitas para produção de Objetos de Aprendizagem no padrão SCORM" , 
+ "edicao" : "19-2011-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1228/1180" , 
+ "authorList" : [  
+ "Paulo Eduardo Battistella"  , "Aldo von Wangenheim" ] 
+} 
+, { "id" : "1263_1183" , 
+ "paperName" : "Percepção social em EAD: Identificando necessidades para o LMS Amadeus" , 
+ "edicao" : "19-2011-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1263/1183" , 
+ "authorList" : [  
+ "Ivanildo José Melo Filho"  , "Rosângela S Carvalho"  , "Rosangela M Melo"  , "Alex S Gomes" ] 
+} 
+, { "id" : "1250_1185" , 
+ "paperName" : "A-TVDBR: Um Modelo de Atividades  para TV Digital Brasileira" , 
+ "edicao" : "19-2011-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1250/1185" , 
+ "authorList" : [  
+ "MOZART DE MELO ALVES JÚNIOR"  , "Arturo Hernández Domínguez" ] 
+} 
+, { "id" : "1325_1188" , 
+ "paperName" : "A Avaliação do uso de Objetos de Aprendizagem na Educação de Jovens e Adultos" , 
+ "edicao" : "19-2011-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1325/1188" , 
+ "authorList" : [  
+ "Kethure Aline Oliveira"  , "Marília Abrahão Amaral"  , "Gabriela Recipputi Domingos" ] 
+} 
+, { "id" : "2306_2068" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "2-1998-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2306/2068" , 
+ "authorList" : [  
+ "Raul Sidnei Wazlawick" ] 
+} 
+, { "id" : "2307_2069" , 
+ "paperName" : "COMUNIDADES DINÂMICAS PARA O APRENDIZADO NA INTERNET" , 
+ "edicao" : "2-1998-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2307/2069" , 
+ "authorList" : [  
+ "Marisa Lucena" ] 
+} 
+, { "id" : "2308_2070" , 
+ "paperName" : "MEDIDAS COGNITIVAS PARA O ENSINO DE CONCEITOS VISUAIS COM SISTEMAS TUTORIAIS INTELIGENTES" , 
+ "edicao" : "2-1998-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2308/2070" , 
+ "authorList" : [  
+ "Andrey Ricardo Pimentel"  , "Alexandre Ibrahim Direne" ] 
+} 
+, { "id" : "2309_2071" , 
+ "paperName" : "EDUCAÇÃO À DISTÂNCIA E INTERNET EM SALA DE AULA" , 
+ "edicao" : "2-1998-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2309/2071" , 
+ "authorList" : [  
+ "Beatriz Corso Magdalena"  , "Marcelo Rovani P. Messa" ] 
+} 
+, { "id" : "2310_2072" , 
+ "paperName" : "APRENDIZAGEM COOPERATIVA DISTRIBUÍDA NA BIBLIOTECA KIDLINK-BRASIL" , 
+ "edicao" : "2-1998-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2310/2072" , 
+ "authorList" : [  
+ "NEIDE SANTOS"  , "HELOÍSA M. COSTA FERREIRA" ] 
+} 
+, { "id" : "2311_2073" , 
+ "paperName" : "MODELOS BASEADOS EM ESTEREÓTIPOS E ORÁCULOS PARA A APRENDIZAGEM DE CONCEITOS VISUAIS" , 
+ "edicao" : "2-1998-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2311/2073" , 
+ "authorList" : [  
+ "Davidson Cury"  , "Nizam Omar"  , "Alexandre I. Direne" ] 
+} 
+, { "id" : "2312_2074" , 
+ "paperName" : "QSabe - Trocando Experiências sobre Informática Educativa em uma Rede de Educadores" , 
+ "edicao" : "2-1998-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2312/2074" , 
+ "authorList" : [  
+ "Crediné S. Menezes"  , "Orivaldo L. Tavares"  , "José M. Pessoa" ] 
+} 
+, { "id" : "2313_2075" , 
+ "paperName" : "Ambiente Hipertexto para Apoio ao Planejamento e Elaboração de Cursos de Treinamento Segundo a Metodologia TRAINAIR" , 
+ "edicao" : "2-1998-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2313/2075" , 
+ "authorList" : [  
+ "José Maria Parente de Oliveira"  , "Clovis Torres Fernandes" ] 
+} 
+, { "id" : "2315_2077" , 
+ "paperName" : "Escola Virtual para pessoas com síndrome de Down : ambientes de aprendizagem telemáticos como alternativa de desenvolvimento" , 
+ "edicao" : "2-1998-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2315/2077" , 
+ "authorList" : [  
+ "Lucila Maria Costi Santarosa" ] 
+} 
+, { "id" : "2314_2076" , 
+ "paperName" : "A prática do professor no laboratório de informática" , 
+ "edicao" : "2-1998-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2314/2076" , 
+ "authorList" : [  
+ "Francisco de Paula Marques Rodrigues" ] 
+} 
+, { "id" : "2316_2078" , 
+ "paperName" : "SAEL: SISTEMA DE AVALIAÇÃO ELETRÔNICO - UMA APLICAÇÃO DA INFORMÁTICA À ATIVIDADE DIDÁTICO - PEDAGÓGICA DO PROFESSOR" , 
+ "edicao" : "2-1998-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2316/2078" , 
+ "authorList" : [  
+ "Andréa Soares Rocha dos Santos"  , "Mauro Cavalcante Pequeno"  , "Raimundo Hélio Leite" ] 
+} 
+, { "id" : "2317_2079" , 
+ "paperName" : "Desenvolvimento de Metodologias de Ensino-Aprendizagem da Matemática em Ambientes Computacionais baseados na Estética Logo" , 
+ "edicao" : "2-1998-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2317/2079" , 
+ "authorList" : [  
+ "Odete Sidericoudes" ] 
+} 
+, { "id" : "1384_1201" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "20-2012-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1384/1201" , 
+ "authorList" : [  
+ "André Raabe"  , "Alexandre Direne" ] 
+} 
+, { "id" : "1376_1191" , 
+ "paperName" : "Conselho Editorial" , 
+ "edicao" : "20-2012-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1376/1191" , 
+ "authorList" : [  
+ " " ] 
+} 
+, { "id" : "1289_1190" , 
+ "paperName" : "e-LORS: Uma Abordagem para Recomendação de Objetos de Aprendizagem" , 
+ "edicao" : "20-2012-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1289/1190" , 
+ "authorList" : [  
+ "Luciana A M Zaina"  , "Graça Bressan"  , "Maria Angélica A. C. Cardieri"  , "José Fernando Rodrigues Júnior" ] 
+} 
+, { "id" : "1328_1189" , 
+ "paperName" : "m-tutorial: ferramenta de autoria para desenvolvimento de tutoriais voltados para o m-learning" , 
+ "edicao" : "20-2012-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1328/1189" , 
+ "authorList" : [  
+ "christien Lana Rachid"  , "Lucila Ishitani" ] 
+} 
+, { "id" : "1367_1192" , 
+ "paperName" : "Em direção à construção automática de Mapas Conceituais a partir de textos" , 
+ "edicao" : "20-2012-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1367/1192" , 
+ "authorList" : [  
+ "Juliana Hiroko Kowata"  , "Davidson Cury"  , "Maria Claudia Silva Boeres" ] 
+} 
+, { "id" : "1363_1193" , 
+ "paperName" : "O Processo de Colaboração nos Trabalhos de Coautoria em Ambientes Virtuais de Aprendizagem" , 
+ "edicao" : "20-2012-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1363/1193" , 
+ "authorList" : [  
+ "Mônica Mandaji" ] 
+} 
+, { "id" : "1368_1194" , 
+ "paperName" : "Learning Vectors (LV): Um Modelo de Avaliação Pro-cessual com Mensuração Não-Linear da Aprendizagem em EaD online" , 
+ "edicao" : "20-2012-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1368/1194" , 
+ "authorList" : [  
+ "Gilvandenys Leite Sales"  , "Giovanni Cordeiro Barroso"  , "José Marques Soares" ] 
+} 
+, { "id" : "1370_1195" , 
+ "paperName" : "Adaptação de material didático para u-learning: Sistema Odin" , 
+ "edicao" : "20-2012-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1370/1195" , 
+ "authorList" : [  
+ "Marcelo Ricardo Quinta" ] 
+} 
+, { "id" : "1373_1196" , 
+ "paperName" : "Uma Linha de Produto de Software baseada na Web Semântica para Sistemas Tutores Inteligentes" , 
+ "edicao" : "20-2012-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1373/1196" , 
+ "authorList" : [  
+ "Alan Silva"  , "Evandro Costa"  , "Ig Ibert Bittencourt" ] 
+} 
+, { "id" : "1371_1197" , 
+ "paperName" : "Proposta de uma metodologia para a construção de um sistema de CAA focado no contexto de seus usuários" , 
+ "edicao" : "20-2012-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1371/1197" , 
+ "authorList" : [  
+ "Barbara Gorziza Avila"  , "Liliana Maria Passerino"  , "Eliseo Reatequi" ] 
+} 
+, { "id" : "1364_1198" , 
+ "paperName" : "Banco Internacional de Objetos Educacionais: Repositório Digital para o uso da Informática na Educação" , 
+ "edicao" : "20-2012-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1364/1198" , 
+ "authorList" : [  
+ "Paloma Alinne Rodrigues"  , "Prof.Dr.Klaus Schlunzen Junior"  , "Profa.Dra.Elisa Tomoe Moriya Schlünzen"  , "Profa.Dra.Maria Inês Ribas Rodrigues" ] 
+} 
+, { "id" : "1366_1199" , 
+ "paperName" : "Desenvolvimento de Jogo Educacional sobre  Ecotoxicologia Utilizando HTML5" , 
+ "edicao" : "20-2012-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1366/1199" , 
+ "authorList" : [  
+ "Diogo Moreira Moreira Bispo"  , "Márcio Silvatti Zabeu"  , "Gisela Aragão Umbuzeiro"  , "Marcos Augusto Francisco Borges" ] 
+} 
+, { "id" : "1369_1200" , 
+ "paperName" : "Estilos e Estratégias de Aprendizagem Personalizadas a Alunos das Modalidades Presenciais e a Distância" , 
+ "edicao" : "20-2012-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1369/1200" , 
+ "authorList" : [  
+ "Andreia Rosangela Mühlbeier"  , "Patricia Mariotto Mozzaquatro" ] 
+} 
+, { "id" : "1868_1635" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "20-2012-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1868/1635" , 
+ "authorList" : [  
+ "André Raabe" ] 
+} 
+, { "id" : "1869_1636" , 
+ "paperName" : "Conselho Editorial" , 
+ "edicao" : "20-2012-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1869/1636" , 
+ "authorList" : [  
+ "André Raabe" ] 
+} 
+, { "id" : "1321_1622" , 
+ "paperName" : "Blogs no ensino de química: utilização e avaliação da aceitação em disciplina de comunicação científica" , 
+ "edicao" : "20-2012-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1321/1622" , 
+ "authorList" : [  
+ "Salete Linhares Queiroz"  , "Mario Roberto Barro" ] 
+} 
+, { "id" : "1335_1624" , 
+ "paperName" : "VirtualMat: um ambiente virtual de apoio ao ensino de matemática para alunos com Deficiência Mental" , 
+ "edicao" : "20-2012-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1335/1624" , 
+ "authorList" : [  
+ "Fernanda Francielle de Oliveira Malaquias"  , "Edgard Afonso Lamounier Jr."  , "Alexandre Cardoso"  , "Cleusa Aparecida de Oliveira Santos"  , "Márcia Arantes Buiatti Pacheco" ] 
+} 
+, { "id" : "1346_1626" , 
+ "paperName" : "Laptops Educacionais em Escolas Públicas: Primeiros Resultados de uma Abordagem Socio-técnica" , 
+ "edicao" : "20-2012-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1346/1626" , 
+ "authorList" : [  
+ "Flávia Linhalis Arantes"  , "Tel Amiel"  , "Leonardo Cunha de Miranda"  , "Maria Cecília Martins"  , "Maria Cecília Calani Baranauskas" ] 
+} 
+, { "id" : "1360_1627" , 
+ "paperName" : "Autoeficácia e Experiência de Professores no uso de Tecnologias de Informática" , 
+ "edicao" : "20-2012-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1360/1627" , 
+ "authorList" : [  
+ "Melissa Picchi Zambon"  , "Deisy das Graças de Souza"  , "Tânia Maria Santana de Rose" ] 
+} 
+, { "id" : "1409_1634" , 
+ "paperName" : "Facilitando o aprendizado de programação sob a ótica de metodologias ágeis" , 
+ "edicao" : "20-2012-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1409/1634" , 
+ "authorList" : [  
+ "Sérgio Crespo"  , "Vilson Gärtner"  , "Arthur Tórgo Gómez" ] 
+} 
+, { "id" : "1394_1637" , 
+ "paperName" : "Informática e educação no ensino superior: reflexões sobre a relação com o saber de estudantes de cursos da área de computação" , 
+ "edicao" : "20-2012-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1394/1637" , 
+ "authorList" : [  
+ "Elaine Rafaela Neves de Freitas"  , "Maria Gabriela Parenti Bicalho"  , "Maria Celeste Reis Fernandes de Souza"  , "Cristiane Mendes Netto" ] 
+} 
+, { "id" : "1390_2104" , 
+ "paperName" : "CloudLab: Um Laboratório Virtual para Ensino de Projetos de Circuitos Integrados" , 
+ "edicao" : "20-2012-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1390/2104" , 
+ "authorList" : [  
+ "Alisson Vasconcelos Brito"  , "José Judson Mesquita Cunha" ] 
+} 
+, { "id" : "1406_2105" , 
+ "paperName" : "Aprimoramento Conceitual e Uso de Demonstrações Matemáticas: Um Estudo de Caso Sobre a Geometria Dinâmica e as Pesquisas de Campo com Ambientes Computacionais de Ensino" , 
+ "edicao" : "20-2012-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1406/2105" , 
+ "authorList" : [  
+ "Emília FERREIRA"  , "Adriana SOARES"  , "Cabral LIMA" ] 
+} 
+, { "id" : "1342_2106" , 
+ "paperName" : "Experiência Inovadora e Contribuições no Ensino de Geometria em uma Ferramenta 3D: um Estudo de Caso na Engenharia" , 
+ "edicao" : "20-2012-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1342/2106" , 
+ "authorList" : [  
+ "Rodrigo Duarte Seabra" ] 
+} 
+, { "id" : "1353_2107" , 
+ "paperName" : "Avaliação Automática da Qualidade de Objetos de Aprendizagem dentro de Repositórios" , 
+ "edicao" : "20-2012-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1353/2107" , 
+ "authorList" : [  
+ "Cristian Cechinel"  , "Salvador Sánchez-Alonso"  , "Miguel-Ángel Sicilia" ] 
+} 
+, { "id" : "1372_2108" , 
+ "paperName" : "Ferramenta de Apoio ao ensino de Física utilizando Realidade Aumentada" , 
+ "edicao" : "20-2012-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1372/2108" , 
+ "authorList" : [  
+ "Rodrigo Luis de Souza da Silva"  , "Márcio A. C. Viegas"  , "Marcelo B. Vieira" ] 
+} 
+, { "id" : "1389_2110" , 
+ "paperName" : "Avaliação Multidimensional Baseada em Lógica difusa para Ambientes de Ensino Mediado por Computador" , 
+ "edicao" : "20-2012-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1389/2110" , 
+ "authorList" : [  
+ "Richard Arias Arias"  , "André Marcelo Panhan"  , "Gean Davis Breda"  , "Bruno Bogaz Zarpelão"  , "Leonardo Souza Mendes" ] 
+} 
+, { "id" : "1399_2111" , 
+ "paperName" : "Uma Infraestrutura Descentralizada para Ambientes de Aprendizagem Ubíqua" , 
+ "edicao" : "20-2012-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1399/2111" , 
+ "authorList" : [  
+ "Jezer Machado Oliveira"  , "Solon Andrade Rabello"  , "Jorge Luis Victória Barbosa"  , "Débora Nice Ferrari Barbosa" ] 
+} 
+, { "id" : "1413_2112" , 
+ "paperName" : "Processos de construção do conheci-mento em sala de aula mediados pela convergência tecnológica: reflexões deste cenário emergente" , 
+ "edicao" : "20-2012-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1413/2112" , 
+ "authorList" : [  
+ "David Moises Barreto dos Santos"  , "Adolfo Almeida Duran"  , "Teresinha Froes Burnham" ] 
+} 
+, { "id" : "1391_2113" , 
+ "paperName" : "Uma Proposta para o Ensino de Engenharia de Software a partir da Resolução de Problemas" , 
+ "edicao" : "20-2012-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1391/2113" , 
+ "authorList" : [  
+ "Márcia Cristina Cera"  , "Mateus Henrique Dal Forno"  , "Vanessa Gindri Vieira" ] 
+} 
+, { "id" : "1393_2114" , 
+ "paperName" : "Ambientes Tecnológicos Lúdicos de Autoria (ATLA): uma proposta para potencialização dos processos de ensino e aprendizagem" , 
+ "edicao" : "20-2012-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1393/2114" , 
+ "authorList" : [  
+ "Ivete Martins Pinto"  , "Silvia Costa Botelho" ] 
+} 
+, { "id" : "1416_2115" , 
+ "paperName" : "Aplicando a Taxonomia de Bloom Revisada para Gerenciar Processos de Ensino em Sistemas de Aprendizagem Baseada em Problemas" , 
+ "edicao" : "21-2013-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1416/2115" , 
+ "authorList" : [  
+ "Ariane Nunes Rodrigues"  , "Simone Cristiane dos Santos" ] 
+} 
+, { "id" : "1417_2116" , 
+ "paperName" : "Ensinar a Gerência de Equipes em Disciplinas de Gerência de Projetos de Software" , 
+ "edicao" : "21-2013-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1417/2116" , 
+ "authorList" : [  
+ "Paulo Eduardo Battistella"  , "Christiane Gresse von Wangenheim"  , "Osório Pereira Carvalho" ] 
+} 
+, { "id" : "1418_2117" , 
+ "paperName" : "Design of a Self-standing Multimedia Enriched Projector to enhance teaching experience in classroom in Brazilian public schools" , 
+ "edicao" : "21-2013-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1418/2117" , 
+ "authorList" : [  
+ "Alex Sandro Gomes"  , "Claudia Roberta Araújo Gomes"  , "Manoel Eusébio de Lima"  , "Leonardo Castillo"  , "Sônia Sette"  , "Tiago Machado"  , "Célia Fortes"  , "Victor Wanderley"  , "Aline Timóteo" ] 
+} 
+, { "id" : "1425_2118" , 
+ "paperName" : "Uma Arquitetura Flexível Para Promover a Integração Entre o Moodle e Sites de Redes Sociais" , 
+ "edicao" : "21-2013-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1425/2118" , 
+ "authorList" : [  
+ "Sérgio Crespo"  , "Lucas Braz"  , "Tassia Serao"  , "Gisela Clunie" ] 
+} 
+, { "id" : "1432_2119" , 
+ "paperName" : "Squeak Etoys na modalidade 1 para 1: programação e autoria multimídia no desenvolvimento da conceituação" , 
+ "edicao" : "21-2013-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1432/2119" , 
+ "authorList" : [  
+ "Bruno Fagundes Sperb"  , "Patrícia Behling Schäfer"  , "Léa da Cruz Fagundes" ] 
+} 
+, { "id" : "1433_2120" , 
+ "paperName" : "MobiLE:  Um Ambiente Multiagente de Aprendizagem Móvel Baseado em Algoritmo Genético para Apoiar a Aprendizagem Ubíqua" , 
+ "edicao" : "21-2013-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1433/2120" , 
+ "authorList" : [  
+ "Luiz Cláudio Silva"  , "Francisco Milton Mendes Neto"  , "Luiz Jácome Júnior" ] 
+} 
+, { "id" : "1434_2121" , 
+ "paperName" : "A New Approach to Discover Students Learning Styles in Adaptive Educational Systems" , 
+ "edicao" : "21-2013-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1434/2121" , 
+ "authorList" : [  
+ "Fabiano Azevedo Dorça"  , "Luciano Vieira Lima"  , "Márcia Aparecida Fernandes"  , "Carlos Roberto Lopes" ] 
+} 
+, { "id" : "1435_2122" , 
+ "paperName" : "Sistema de apoio a atividades de laboratório de programação via Moodle com suporte ao balanceamento  de carga e análise de similaridade de código" , 
+ "edicao" : "21-2013-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1435/2122" , 
+ "authorList" : [  
+ "Danilo Leal Maciel"  , "Allyson Bonetti França"  , "José Marques Soares" ] 
+} 
+, { "id" : "2322_2123" , 
+ "paperName" : "Simulando a dinâmica populacional de uma colmeia para o ensino de Biologia" , 
+ "edicao" : "21-2013-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2322/2123" , 
+ "authorList" : [  
+ "José Eduardo Mendes de Figueiredo"  , "Vera Maria Benjamim Werneck"  , "Rosa Maria E. M. da Costa" ] 
+} 
+, { "id" : "2323_2124" , 
+ "paperName" : "Ferramentas de autoria e de colaboração: discutindo a acessibilidade e a usabilidade na perspectiva da Web 2.0" , 
+ "edicao" : "21-2013-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2323/2124" , 
+ "authorList" : [  
+ "Lucila Maria Costi Santarosa"  , "Débora Conforto"  , "Lourenço de Oliveira Basso" ] 
+} 
+, { "id" : "1426_2125" , 
+ "paperName" : "O Uso de Animações Interativas na Abordagem dos Conceitos da Energia Mecânica no Ensino Médio" , 
+ "edicao" : "21-2013-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1426/2125" , 
+ "authorList" : [  
+ "Waltrudes Everton Sanches"  , "Juliano Schimiguel"  , "Mauro Sérgio Teixeira de Araújo" ] 
+} 
+, { "id" : "1431_2126" , 
+ "paperName" : "O uso do blog como ferramenta pedagógica: um estudo de caso com professores participantes do Projeto Um Computador por Aluno (UCA)" , 
+ "edicao" : "21-2013-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1431/2126" , 
+ "authorList" : [  
+ "Renata Lopes Jaguaribe Pontes"  , "José Aires de Castro Filho" ] 
+} 
+, { "id" : "1427_2127" , 
+ "paperName" : "Laboratório virtual como alternativa didática para  auxiliar o ensino de química no ensino médio" , 
+ "edicao" : "21-2013-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1427/2127" , 
+ "authorList" : [  
+ "Guilherme Leocárdio Lucena"  , "Vandeci Dias dos Santos"  , "Afranio Gabriel da Silva" ] 
+} 
+, { "id" : "2350_2128" , 
+ "paperName" : "Formação continuada com apoio de uma rede social na internet: Tecnologias na Prática Docente de Professores de Matemática" , 
+ "edicao" : "21-2013-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2350/2128" , 
+ "authorList" : [  
+ "Gilmara Teixeira Barcelos Peixoto"  , "Patricia Alejandra Behar"  , "Liliana Maria Passerino" ] 
+} 
+, { "id" : "1429_2129" , 
+ "paperName" : "Elaboração de uma metodologia de desenvolvimento de software em uma instituição de ensino" , 
+ "edicao" : "21-2013-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1429/2129" , 
+ "authorList" : [  
+ "Mírian Cristiane Alves Brito" ] 
+} 
+, { "id" : "2373_2130" , 
+ "paperName" : "Ensinando Geometria a Deficientes Visuais: o ambiente dinâmico Geometrix" , 
+ "edicao" : "21-2013-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2373/2130" , 
+ "authorList" : [  
+ "Lidiane FIGUEIRAS SILVA"  , "José Antonio BORGES"  , "Cabral LIMA"  , "Adriana BENEVIDES SOARES" ] 
+} 
+, { "id" : "2212_2131" , 
+ "paperName" : "UM AMBIENTE PARA AS PRÁTICAS LABORATORIAIS DE FÍSICA: ESTUDO DO PÊNDULO MATEMÁTICO" , 
+ "edicao" : "21-2013-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2212/2131" , 
+ "authorList" : [  
+ "Vinícyus Santos Guimarães" ] 
+} 
+, { "id" : "2364_2132" , 
+ "paperName" : "Ensino de Programação no Ensino Médio: Uma Abordagem Orientada ao Design com a linguagem Scratch" , 
+ "edicao" : "21-2013-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2364/2132" , 
+ "authorList" : [  
+ "Pasqueline Dantas Scaico"  , "Anderson Alves de Lima"  , "Silvia Azevedo"  , "Jefferson Barbosa Belo da Silva"  , "Ewerton Henning Raposo"  , "Luiz Fernando paiva"  , "Yugo Alencar"  , "João Paulo Mendes"  , "Alexandre Scaico" ] 
+} 
+, { "id" : "2340_2133" , 
+ "paperName" : "Recursos Tecnológicos e Ensino de Estatística na Educação Básica: um cenário de pesquisas brasileiras" , 
+ "edicao" : "21-2013-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2340/2133" , 
+ "authorList" : [  
+ "Everton José Goldoni Estevam"  , "Marco Aurélio Kalinke" ] 
+} 
+, { "id" : "2401_2134" , 
+ "paperName" : "Introdução ao GenVirtual: uma interface musical com realidade aumentada para apoiar o “fazer musical” de pessoas com deficiência motora e cognitiva" , 
+ "edicao" : "21-2013-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2401/2134" , 
+ "authorList" : [  
+ "Ana Grasielle Dionísio Corrêa"  , "Marilena Nascimento"  , "Irene Karaguilla Ficheman"  , "Roseli de Deus Lopes" ] 
+} 
+, { "id" : "1661_2454" , 
+ "paperName" : "Nativos e imigrantes: Questionando a fluência tecnológica docente" , 
+ "edicao" : "21-2013-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1661/2454" , 
+ "authorList" : [  
+ "Tel Amiel"  , "Sergio Ferreira do Amaral" ] 
+} 
+, { "id" : "2356_2455" , 
+ "paperName" : "A interação e apropriação tecnológica de pessoas com deficiência através de ferramenta multimídia acessível" , 
+ "edicao" : "21-2013-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2356/2455" , 
+ "authorList" : [  
+ "Lourenço de Oliveira Basso"  , "Lucila Maria Costi Santarosa"  , "Débora Conforto" ] 
+} 
+, { "id" : "2361_2456" , 
+ "paperName" : "Busca Contextualizada Enriquecida com Dados Abertos para Apoiar a Aprendizagem Colaborativa em Redes Sociais" , 
+ "edicao" : "21-2013-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2361/2456" , 
+ "authorList" : [  
+ "Eduardo Fritzen"  , "Sean Wolfgand Matsui Siqueira"  , "Leila Cristina de Vasconcelos Andrade" ] 
+} 
+, { "id" : "2353_2461" , 
+ "paperName" : "Análise de Usabilidade de um Sistema de EaD Baseada em Modelos Markovianos e em Taxonomia" , 
+ "edicao" : "21-2013-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2353/2461" , 
+ "authorList" : [  
+ "Janaina Rodrigues Penedo"  , "Morganna Carmem Diniz"  , "Simone Bacellar Leal Ferreira"  , "Denis Silva da Silveira"  , "Eliane Pinheiro Capra" ] 
+} 
+, { "id" : "1876_2458" , 
+ "paperName" : "Estudo e adaptação de software para o ensino de Linguagens Formais e Autômatos" , 
+ "edicao" : "21-2013-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/1876/2458" , 
+ "authorList" : [  
+ "Juliana Campos Pirovani"  , "Guilherme Vezula Mataveli" ] 
+} 
+, { "id" : "2090_2459" , 
+ "paperName" : "Um Modelo Sensível ao Contexto Orientado à Gestão por Competências" , 
+ "edicao" : "21-2013-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2090/2459" , 
+ "authorList" : [  
+ "Marcos Ricardo Kich"  , "Jorge Victória Barbosa"  , "Mara Cristine Kich"  , "Amarolinda Zanela Klein" ] 
+} 
+, { "id" : "2336_2460" , 
+ "paperName" : "Mídias na Educação: discurso oficial nos discursos de professores egressos de um Programa de Formação Continuada" , 
+ "edicao" : "21-2013-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2336/2460" , 
+ "authorList" : [  
+ "Heloisa Helena Oliveira de Magalhães Couto"  , "Luiz Augusto Coimbra Rezende" ] 
+} 
+, { "id" : "2351_2457" , 
+ "paperName" : "Análise Crítica das Pesquisas Recentes sobre as Tecnologias de Objetos de Aprendizagem e Ambientes Virtuais de Aprendizagem" , 
+ "edicao" : "21-2013-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2351/2457" , 
+ "authorList" : [  
+ "Fabiane Penteado Galafassi"  , "João Carlos Gluz"  , "Cristiano Galafassi" ] 
+} 
+, { "id" : "2403_2463" , 
+ "paperName" : "Sobre o Desenvolvimento de Software Educacional: proposta de uma Linha de Produto de Software para Módulos de Aprendizagem Interativa" , 
+ "edicao" : "21-2013-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2403/2463" , 
+ "authorList" : [  
+ "Danilo Leite Dalmon"  , "Leônidas de Oliveira Brandão" ] 
+} 
+, { "id" : "2362_2464" , 
+ "paperName" : "Uso de Realidade Aumentada como Apoio ao Ensino do Campo Girante de um Motor de Corrente Alternada" , 
+ "edicao" : "21-2013-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2362/2464" , 
+ "authorList" : [  
+ "Suzana da Hora Macedo"  , "Filipe Arantes Fernandes"  , "Evanildo dos Santos Leite"  , "José Valdeni de Lima"  , "Maria Cristina Villanova Biazus" ] 
+} 
+, { "id" : "2436_2481" , 
+ "paperName" : "Fio Condutor Microgenético: uma metodologia para a mediação metacognitiva em jogos computacionais" , 
+ "edicao" : "22-2014-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2436/2481" , 
+ "authorList" : [  
+ "Myriam Kienitz Lemos"  , "Claudia L.R. Motta"  , "Carla Verônica M. Marques"  , "Carlo Emmanoel T. Oliveira"  , "Maira Fróes"  , "José Otávio Pompeu e Silva" ] 
+} 
+, { "id" : "2375_2469" , 
+ "paperName" : "Análise de portal educacional em Histologia e de recursos didáticos diversificados por estudantes de graduação para viabilizar maior eficiência no ensino presencial." , 
+ "edicao" : "22-2014-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2375/2469" , 
+ "authorList" : [  
+ "CARLA MEDEIROS y ARAUJO"  , "VITOR RIOS VALDEZ" ] 
+} 
+, { "id" : "2377_2470" , 
+ "paperName" : "Análise das Interações Curriculares em um Curso de Ciência da Computação: buscando subsídios para aprimoramento curricular" , 
+ "edicao" : "22-2014-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2377/2470" , 
+ "authorList" : [  
+ "Fábio Gerab"  , "Ivander Augusto Morais Bueno"  , "Iraní Ferreira da Silva Gerab" ] 
+} 
+, { "id" : "2381_2471" , 
+ "paperName" : "Estimativa de Desempenho Acadêmico de Estudantes: Análise da Aplicação de Técnicas de Mineração de Dados em Cursos a Distância" , 
+ "edicao" : "22-2014-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2381/2471" , 
+ "authorList" : [  
+ "Ernani Gottardo"  , "Celso Antônio Alves Kaestner"  , "Robinson Vida Noronha" ] 
+} 
+, { "id" : "2384_2472" , 
+ "paperName" : "A mediação em aulas virtuais síncronas via webconferência" , 
+ "edicao" : "22-2014-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2384/2472" , 
+ "authorList" : [  
+ "Silvia Dotta"  , "Paulo Henrique Lopes Aguiar"  , "Camila Areias de Oliveira"  , "Érica Ferreira da Cunha Jorge" ] 
+} 
+, { "id" : "2389_2480" , 
+ "paperName" : "REGULARIDADES E TRANSFORMAÇÕES EM HIPERMÍDIA EDUCACIONAL" , 
+ "edicao" : "22-2014-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2389/2480" , 
+ "authorList" : [  
+ "Ilse Abegg"  , "Fábio da Purificação de Bastos"  , "Elena Maria Mallmann"  , "Rosiclei Aparecida Cavichioli Lauermann"  , "Sabrina Skrebsky Richter"  , "Taís Fim Alberti"  , "Felipe Martins Müller" ] 
+} 
+, { "id" : "2391_2474" , 
+ "paperName" : "Educação em Sistemas de Informação no Brasil: Uma Análise da Abordagem Curricular em Instituições de Ensino Superior Brasileiras" , 
+ "edicao" : "22-2014-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2391/2474" , 
+ "authorList" : [  
+ "Joao Porto de Albuquerque"  , "Edmir Parada Vasques Prado"  , "Fernando de Souza Coelho"  , "Rafael Prado Celso" ] 
+} 
+, { "id" : "2396_2475" , 
+ "paperName" : "Licenciatura em Física a distância: análise do ambiente virtual TelEduc sob o olhar do conceito de mediação simbólica de Vygotsky" , 
+ "edicao" : "22-2014-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2396/2475" , 
+ "authorList" : [  
+ "Tadeu Samuel Pereira"  , "Denise Pereira de Alcântara Ferraz" ] 
+} 
+, { "id" : "2407_2476" , 
+ "paperName" : "Análise comparativa da Usabilidade dos Ambientes de Gestão da Aprendizagem Amadeus e Moodle" , 
+ "edicao" : "22-2014-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2407/2476" , 
+ "authorList" : [  
+ "Ivanildo José Melo Filho"  , "Rosângela Saraiva Carvalho"  , "Alex Sandro Gomes"  , "Paulo André da Rocha Perris"  , "Rodrigo Lins Rodrigues"  , "Fábio Denilson de Oliveira Feliciano" ] 
+} 
+, { "id" : "2414_2477" , 
+ "paperName" : "Reduzir as Atitudes Negativas em Relação à Aprendizagem da Matemática e Aumentar o Desempenho dos Alunos Através de Metodologia CAL" , 
+ "edicao" : "22-2014-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2414/2477" , 
+ "authorList" : [  
+ "Jaime R. S. Fonseca" ] 
+} 
+, { "id" : "2423_2478" , 
+ "paperName" : "Minerando Dados Educacionais com foco na evasão escolar: oportunidades, desafios e necessidades" , 
+ "edicao" : "22-2014-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2423/2478" , 
+ "authorList" : [  
+ "Sandro José Rigo"  , "Wagner Cambruzzi"  , "Jorge L. V. Barbosa"  , "Sílvio C. Cazella" ] 
+} 
+, { "id" : "2434_2479" , 
+ "paperName" : "Utilizando Agentes Pedagógicos Animados como uma  abordagem não restritiva ao Gaming The System" , 
+ "edicao" : "22-2014-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2434/2479" , 
+ "authorList" : [  
+ "Thiago Marquez Nunes"  , "Patrícia Augustin Jaques" ] 
+} 
+, { "id" : "2374_2724" , 
+ "paperName" : "Uma Abordagem Automática para Personalização do Processo de Ensino Baseada em Estilos de Aprendizagem em Sistemas Adaptativos e Inteligentes para Educação a Distância" , 
+ "edicao" : "22-2014-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2374/2724" , 
+ "authorList" : [  
+ "Daydson Hugo Silva"  , "Fabiano Azevedo Dorça" ] 
+} 
+, { "id" : "2383_2725" , 
+ "paperName" : "INTEGRAÇÃO DE UMA METODOLOGIA DE ENSINO PRESENCIAL DE PROGRAMAÇÃO COM UM SISTEMA TUTOR INTELIGENTE" , 
+ "edicao" : "22-2014-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2383/2725" , 
+ "authorList" : [  
+ "SAHUDY MONTENEGRO GONZALEZ"  , "ANNABELL DEL REAL TAMARIZ" ] 
+} 
+, { "id" : "2386_2726" , 
+ "paperName" : "Autoconceito académico em ambientes virtuais de aprendizagem" , 
+ "edicao" : "22-2014-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2386/2726" , 
+ "authorList" : [  
+ "José António Marques Moreira"  , "Rita Manuela Barros"  , "Angélica Maria Monteiro" ] 
+} 
+, { "id" : "2412_2727" , 
+ "paperName" : "EDUCAÇÃO A DISTÂNCIA É PARA TODOS? UM ESTUDO EXPLORATÓRIO SOBRE POSSÍVEIS PREDITORES DO SUCESSO ACADÊMICO" , 
+ "edicao" : "22-2014-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2412/2727" , 
+ "authorList" : [  
+ "Ronei Ximenes Martins"  , "Alberto Hokari" ] 
+} 
+, { "id" : "2416_2728" , 
+ "paperName" : "O PAPEL DA UNIREDE NA CONSTRUÇÃO DAS POLÍTICAS PÚBLICAS PARA A EAD NO BRASIL" , 
+ "edicao" : "22-2014-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2416/2728" , 
+ "authorList" : [  
+ "Ana Beatriz Gomes Carvalho" ] 
+} 
+, { "id" : "2419_2729" , 
+ "paperName" : "Estratégias para Condução do Diálogo a Distância" , 
+ "edicao" : "22-2014-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2419/2729" , 
+ "authorList" : [  
+ "Silvia Dotta"  , "Marcelo Giordan" ] 
+} 
+, { "id" : "2420_2730" , 
+ "paperName" : "MATERIAL DIDÁTICO MULTIMIDIA APLICADO A EDUCAÇÃO SEMIPRESENCIAL: UM RELATO DE EXPERIÊNCIA" , 
+ "edicao" : "22-2014-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2420/2730" , 
+ "authorList" : [  
+ "Ana Paula Silva Figueiredo"  , "Arcilan Trevenzoli Assireu"  , "Vanessa Cristina Oliveira de Souza" ] 
+} 
+, { "id" : "2422_2731" , 
+ "paperName" : "O Uso de Simuladores no Ensino da Medicina" , 
+ "edicao" : "22-2014-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2422/2731" , 
+ "authorList" : [  
+ "Cecilia Dias Flores"  , "Marta Rosecler Bez"  , "Rosana Mussoi Bruno" ] 
+} 
+, { "id" : "2427_2732" , 
+ "paperName" : "A Lousa Digital no ensino de Matemática: análise das interações docentes" , 
+ "edicao" : "22-2014-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2427/2732" , 
+ "authorList" : [  
+ "Pablo Charles de Oliveira Melo"  , "Verônica Gitirana Gomes Ferreira" ] 
+} 
+, { "id" : "2435_2733" , 
+ "paperName" : "MEMORE – Um Ambiente para Apoio ao Acompanhamento da Utilização de Computadores na Educação" , 
+ "edicao" : "22-2014-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2435/2733" , 
+ "authorList" : [  
+ "Ronaldo Ribeiro Goldschmidt"  , "Isabel Fernandes"  , "Claudio Passos"  , "Mônica Norris"  , "Claudia Ferlin"  , "Maria Claudia Cavalcanti"  , "Jorge Soares" ] 
+} 
+, { "id" : "2366_2828" , 
+ "paperName" : "Sobre a aplicação de ontologias para orientar agentes a responder perguntas" , 
+ "edicao" : "22-2014-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2366/2828" , 
+ "authorList" : [  
+ "Marta Talitha Amorim"  , "Davidson Cury"  , "Credine Menezes" ] 
+} 
+, { "id" : "2433_2829" , 
+ "paperName" : "UMA OFICINA DE INCLUSÃO DIGITAL PARA A CONSTRUÇÃO SOCIAL: estudo de caso no CEET Vasco Coutinho – Espírito Santo" , 
+ "edicao" : "22-2014-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2433/2829" , 
+ "authorList" : [  
+ "Washington Romão dos Santos"  , "JADSON RAFALSKI" ] 
+} 
+, { "id" : "2444_2830" , 
+ "paperName" : "Avaliação de softwares educativos para o ensino de Língua Portuguesa" , 
+ "edicao" : "22-2014-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2444/2830" , 
+ "authorList" : [  
+ "Rozelma Soares de França"  , "Ana Cristina Barbosa da Silva" ] 
+} 
+, { "id" : "2457_2837" , 
+ "paperName" : "Abstração Refletida presente na Aprendizagem Cooperativa medida pelo Espaço de Aprendizagem Digital da Matemática" , 
+ "edicao" : "22-2014-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2457/2837" , 
+ "authorList" : [  
+ "Aline Silva De Bona"  , "Marcus Vinicius de Azevedo Basso" ] 
+} 
+, { "id" : "2467_2831" , 
+ "paperName" : "FACIL: Modelo para avaliação da literacia digital e informacional" , 
+ "edicao" : "22-2014-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2467/2831" , 
+ "authorList" : [  
+ "Ana Maria Pereira Cardoso"  , "Roberto Cezar de Carvalho e Silva"  , "Simone de Assis Alves da Silva"  , "Djenane Costa Pio"  , "Pedro Henrique Batista Ruas da Silveira" ] 
+} 
+, { "id" : "2475_2832" , 
+ "paperName" : "M-learning: o uso de dispositivos móveis como ferramenta didática no Ensino de Química" , 
+ "edicao" : "22-2014-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2475/2832" , 
+ "authorList" : [  
+ "Bruno Silva Leite" ] 
+} 
+, { "id" : "2800_2833" , 
+ "paperName" : "Análise do uso de formalização de conhecimento heurístico no ensino de táticas de jogos através do estímulo à alternância entre competição e colaboração" , 
+ "edicao" : "22-2014-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2800/2833" , 
+ "authorList" : [  
+ "Alexandre Moreira Feitosa"  , "Alexandre Ibrahim Direne" ] 
+} 
+, { "id" : "2849_2834" , 
+ "paperName" : "REBASS: Recomendação de Objetos de Aprendiza- gem Utilizando Similaridade de Sessões" , 
+ "edicao" : "22-2014-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2849/2834" , 
+ "authorList" : [  
+ "Tiago Wiedemann"  , "Jorge Luiz Vitoria Barbosa"  , "Sandro José Rigo" ] 
+} 
+, { "id" : "2855_2835" , 
+ "paperName" : "Apuê: Uma Plataforma Web para Educação de Ciências Experimentais baseada em Tecnologias Livres" , 
+ "edicao" : "22-2014-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2855/2835" , 
+ "authorList" : [  
+ "Lucas Salomão Spolaore"  , "Gerson Mauri Dallegrave de Almeida"  , "Leandro Chernij"  , "Leonelo Dell Anhol Almeida" ] 
+} 
+, { "id" : "2885_2836" , 
+ "paperName" : "Ensino de Computação com SCRATCH no Ensino Fundamental – Um Estudo de Caso" , 
+ "edicao" : "22-2014-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2885/2836" , 
+ "authorList" : [  
+ "Christiane Gresse von Wangenheim"  , "Vinícius Rodrigues Nunes"  , "Giovane Daniel dos Santos" ] 
+} 
+, { "id" : "2875_2838" , 
+ "paperName" : "DuinoBlocks: Desenho e Implementação de um Ambiente de Programação Visual para Robótica Educacional" , 
+ "edicao" : "22-2014-3" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2875/2838" , 
+ "authorList" : [  
+ "Rafael Machado Alves"  , "Fábio Ferrentini Sampaio"  , "Marcos da Fonseca Elia" ] 
+} 
+, { "id" : "2297_2059" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "3-1998-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2297/2059" , 
+ "authorList" : [  
+ "Raul Sidnei Wazlawick" ] 
+} 
+, { "id" : "2298_2060" , 
+ "paperName" : "Modelos de Colaboração" , 
+ "edicao" : "3-1998-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2298/2060" , 
+ "authorList" : [  
+ "Paul Brna" ] 
+} 
+, { "id" : "2299_2061" , 
+ "paperName" : "Educação a Distância em Robótica e Visão Computacional" , 
+ "edicao" : "3-1998-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2299/2061" , 
+ "authorList" : [  
+ "Luciano Rodrigues de Queiroz"  , "Marcel Bergerman"  , "Rubens Campos Machado"  , "Samuel Siqueira Bueno"  , "Alberto Elfes" ] 
+} 
+, { "id" : "2300_2062" , 
+ "paperName" : "ANÁLISE MICROGENÉTICA DE PROCESSOS COGNITIVOS EM CONTEXTOS MÚLTIPLOS DE RESOLUÇÃO DE PROBLEMAS" , 
+ "edicao" : "3-1998-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2300/2062" , 
+ "authorList" : [  
+ "Maria Teresa Eglér Mantoan"  , "Maria Cecília Martins"  , "Rosa Giaretta Sguerra Miskulin" ] 
+} 
+, { "id" : "2301_2063" , 
+ "paperName" : "A IMPLANTAÇÃO DA INFORMÁTICA NO ESPAÇO ESCOLAR: questões emergentes ao longo do processo" , 
+ "edicao" : "3-1998-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2301/2063" , 
+ "authorList" : [  
+ "Fernanda Maria Pereira Freire"  , "Maria Elisabette Brisola Brito Prado"  , "Maria Cecília Martins"  , "Odete Sidericoudes" ] 
+} 
+, { "id" : "2302_2064" , 
+ "paperName" : "O USO DO COMPUTADOR NOS CURSOS DE FORMAÇÃO DE PROFESSOR: UM ENFOQUE REFLEXIVO DA PRÁTICA PEDAGÓGICA" , 
+ "edicao" : "3-1998-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2302/2064" , 
+ "authorList" : [  
+ "Maria Elisabette Brisola Brito Prado" ] 
+} 
+, { "id" : "2303_2065" , 
+ "paperName" : "O DESIGN CENTRADO NO APRENDIZ NO SISTEMA JONAS: UMA EXPERIÊNCIA DE DESENVOLVIMENTO DE UM SISTEMA PARA FORMAÇÃO NA EMPRESA" , 
+ "edicao" : "3-1998-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2303/2065" , 
+ "authorList" : [  
+ "Marcos Augusto Francisco Borges" ] 
+} 
+, { "id" : "2304_2066" , 
+ "paperName" : "Ambientes Computacionais para Apoio à Aprendizagem: Um Experimento com Frações" , 
+ "edicao" : "3-1998-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2304/2066" , 
+ "authorList" : [  
+ "Henrique Monteiro Cristovão" ] 
+} 
+, { "id" : "2305_2067" , 
+ "paperName" : "Redes Eletrônicas no Ensino de Ciências: Avaliação Pedagógica do Projeto Ecologia em São Caetano do Sul" , 
+ "edicao" : "3-1998-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2305/2067" , 
+ "authorList" : [  
+ "Paulo Sérgio Garcia" ] 
+} 
+, { "id" : "2289_2051" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "4-1999-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2289/2051" , 
+ "authorList" : [  
+ "Raul Sidnei Wazlawick" ] 
+} 
+, { "id" : "2290_2052" , 
+ "paperName" : "PESQUISA E DESENVOLVIMENTO EM INFORMÁTICA NA EDUCAÇÃO NO BRASIL – PARTE I" , 
+ "edicao" : "4-1999-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2290/2052" , 
+ "authorList" : [  
+ "Clovis Torres Fernandes"  , "Neide Santos" ] 
+} 
+, { "id" : "2291_2053" , 
+ "paperName" : "Exploração do Uso de Realidade Virtual no Aprendizado de Habilidades Acadêmicas para o Ensino Fundamental" , 
+ "edicao" : "4-1999-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2291/2053" , 
+ "authorList" : [  
+ "Regina Borges de Araujo"  , "André Luiz Battaiola"  , "Celso Goyos" ] 
+} 
+, { "id" : "2292_2054" , 
+ "paperName" : "Análise Lógico-Operatória do Ambiente de Desenvolvimento Cooperativo de Programação ENVY/400" , 
+ "edicao" : "4-1999-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2292/2054" , 
+ "authorList" : [  
+ "Patricia Alejandra Behar"  , "Antônio Carlos da Rocha Costa" ] 
+} 
+, { "id" : "2293_2055" , 
+ "paperName" : "Um Framework para Estudo de Ambientes de Suporte à Aprendizagem Cooperativa" , 
+ "edicao" : "4-1999-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2293/2055" , 
+ "authorList" : [  
+ "Flávia Maria Santoro"  , "Marcos R. da Silva Borges"  , "Neide Santos" ] 
+} 
+, { "id" : "2294_2056" , 
+ "paperName" : "AS TECNOLOGIAS DA INFORMAÇÃO E COMUNICAÇÃO E A EDUCAÇÃO" , 
+ "edicao" : "4-1999-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2294/2056" , 
+ "authorList" : [  
+ "Elisa Maria Quartiero" ] 
+} 
+, { "id" : "2295_2057" , 
+ "paperName" : "ESTADO DA ARTE EM ESPAÇOS VIRTUAIS DE ENSINO E APRENDIZAGEM" , 
+ "edicao" : "4-1999-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2295/2057" , 
+ "authorList" : [  
+ "Neide Santos" ] 
+} 
+, { "id" : "2296_2058" , 
+ "paperName" : "A INFORMÁTICA E SUAS APLICAÇÕES EM EDUCAÇÃO FÍSICA" , 
+ "edicao" : "4-1999-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2296/2058" , 
+ "authorList" : [  
+ "Alexandre Cruz Berg"  , "Jader Denicol do Amaral"  , "Martin Streibel" ] 
+} 
+, { "id" : "2275_2037" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "5-1999-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2275/2037" , 
+ "authorList" : [  
+ "Raul Sidnei Wazlawick" ] 
+} 
+, { "id" : "2276_2038" , 
+ "paperName" : "Estratégias de Ensino em Sistemas Tutores Inteligentes Modelados através da Tecnologia de Agentes" , 
+ "edicao" : "5-1999-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2276/2038" , 
+ "authorList" : [  
+ "Lucia Maria Martins Giraffa"  , "Rosa Maria Viccari" ] 
+} 
+, { "id" : "2277_2039" , 
+ "paperName" : "O Mundo dos Atores: uma perspectiva de introdução à programação orientada a objetos" , 
+ "edicao" : "5-1999-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2277/2039" , 
+ "authorList" : [  
+ "Antonio Carlos Mariani" ] 
+} 
+, { "id" : "2278_2040" , 
+ "paperName" : "LEARN@WEB - Um Ambiente Integrado para Aprendizagem Cooperativa" , 
+ "edicao" : "5-1999-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2278/2040" , 
+ "authorList" : [  
+ "Marisa Lucena"  , "Vera Salvador" ] 
+} 
+, { "id" : "2279_2041" , 
+ "paperName" : "Estúdio@Web - Um Sistema de Apoio à Prática Educacional Baseado na WEB" , 
+ "edicao" : "5-1999-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2279/2041" , 
+ "authorList" : [  
+ "Marisa Lucena"  , "Sergio Crespo"  , "Adriana Portella" ] 
+} 
+, { "id" : "2280_2042" , 
+ "paperName" : "Metodologia para Criação de Roteiros Educativos em Realidade Virtual" , 
+ "edicao" : "5-1999-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2280/2042" , 
+ "authorList" : [  
+ "Adja Ferreira de Andrade"  , "Raul Sidnei Wazlawick"  , "Antônio Carlos Mariani" ] 
+} 
+, { "id" : "2281_2043" , 
+ "paperName" : "StudyConf : Infra-estrutura de suporte ao aprendizado cooperativo na WWW" , 
+ "edicao" : "5-1999-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2281/2043" , 
+ "authorList" : [  
+ "Alessandra Alaniz Macedo"  , "Maria da Graça Campos Pimentel"  , "Renata Pontin de Mattos Fortes" ] 
+} 
+, { "id" : "2282_2044" , 
+ "paperName" : "Autoria de Aplicações Hipermídia para Ensino" , 
+ "edicao" : "5-1999-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2282/2044" , 
+ "authorList" : [  
+ "Luciano Tadeu Esteves Pansanato"  , "Maria das Graças Volpe Nunes" ] 
+} 
+, { "id" : "2283_2045" , 
+ "paperName" : "EQUIPAMENTO ESCOLAR E ALGUMAS IMPLICAÇÕES" , 
+ "edicao" : "5-1999-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2283/2045" , 
+ "authorList" : [  
+ "RUBÉN DARÍO MARTÍNEZ"  , "MERCEDES SUSANA ASTIZ"  , "PERLA ANALÍA MEDINA"  , "YOLANDA HAYDEÉ MONTERO"  , "MARÍA EUGENIA PEDROSA"  , "ROBERTO ENRIQUE TAIT" ] 
+} 
+, { "id" : "2284_2046" , 
+ "paperName" : "Resenha Crítica - A Máquina das Crianças: Repensando a Escola na Era da Informática" , 
+ "edicao" : "5-1999-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2284/2046" , 
+ "authorList" : [  
+ "Paulo Gileno Cysneiros" ] 
+} 
+, { "id" : "2285_2047" , 
+ "paperName" : "CONCEPÇÕES TEÓRICO-METODOLÓGICAS SOBRE A INTRODUÇÃO E A UTILIZAÇÃO DE COMPUTADORES NO PROCESSO ENSINO/APRENDIZAGEM DA GEOMETRIA" , 
+ "edicao" : "5-1999-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2285/2047" , 
+ "authorList" : [  
+ "Rosana Giaretta Sguerra Miskulin" ] 
+} 
+, { "id" : "2286_2048" , 
+ "paperName" : "PROPOSTA METODOLÓGICA PARA CRIAÇÃO DE ROTEIROS EM AMBIENTES VIRTUAIS PARA APLICAÇÃO EDUCACIONAL" , 
+ "edicao" : "5-1999-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2286/2048" , 
+ "authorList" : [  
+ "Adja Ferreira de Andrade" ] 
+} 
+, { "id" : "2287_2049" , 
+ "paperName" : "Documentos Estruturados para o Domínio de Aplicação Ensino: Modelagem, Autoria e Apresentação no Ambiente WWW" , 
+ "edicao" : "5-1999-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2287/2049" , 
+ "authorList" : [  
+ "João Benedito dos Santos Junior" ] 
+} 
+, { "id" : "2266_2028" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "6-2000-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2266/2028" , 
+ "authorList" : [  
+ "Raul Sidnei Wazlawick" ] 
+} 
+, { "id" : "2267_2029" , 
+ "paperName" : "Vinte projetos apoiados pelo CNPq (ProTeM-CC) na área de Informática na Educação" , 
+ "edicao" : "6-2000-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2267/2029" , 
+ "authorList" : [  
+ "Diversos Autores" ] 
+} 
+, { "id" : "2268_2030" , 
+ "paperName" : "ContentNet: um framework para interoperabilidade de conteúdos educacionais utilizando a plataforma IMS" , 
+ "edicao" : "6-2000-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2268/2030" , 
+ "authorList" : [  
+ "Viviane Torres da Silva"  , "Carlos José Pereira de Lucena" ] 
+} 
+, { "id" : "2269_2031" , 
+ "paperName" : "Aprendizagem e Trabalho Cooperativo no Ambiente AulaNet" , 
+ "edicao" : "6-2000-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2269/2031" , 
+ "authorList" : [  
+ "Hugo Fuks" ] 
+} 
+, { "id" : "2270_2032" , 
+ "paperName" : "Co-autoria Distribuída de Cursos na Internet" , 
+ "edicao" : "6-2000-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2270/2032" , 
+ "authorList" : [  
+ "Carlos André Guimarães Ferraz"  , "Fernando Antonio Mota Trinta"  , "Rodrigo Cavalcanti de Macêdo"  , "Rogério Cysne Araújo" ] 
+} 
+, { "id" : "2271_2033" , 
+ "paperName" : "Um Ambiente Colaborativo para o Ensino à Distância" , 
+ "edicao" : "6-2000-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2271/2033" , 
+ "authorList" : [  
+ "Marta Costa Rosatelli"  , "Marcello Thiry"  , "Ricardo Miranda Barcia" ] 
+} 
+, { "id" : "2272_2034" , 
+ "paperName" : "INTERPRETAÇÃO PEDAGÓGICA DE RELAÇÕES LÓGICAS EM DIÁLOGOS PARA O ENSINO DE CONCEITOS VISUAIS" , 
+ "edicao" : "6-2000-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2272/2034" , 
+ "authorList" : [  
+ "Rodrigo Bonacin"  , "Alexandre Ibrahim Direne" ] 
+} 
+, { "id" : "2273_2035" , 
+ "paperName" : "O Ciberespaço e as Redes de Computadores na Construção de Novo Conhecimento" , 
+ "edicao" : "6-2000-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2273/2035" , 
+ "authorList" : [  
+ "Vânia Mattozo"  , "Elizabeth Specialski" ] 
+} 
+, { "id" : "2274_2036" , 
+ "paperName" : "Resenha Crítica - The Connected Family: Bridging the Digital Generation Gap" , 
+ "edicao" : "6-2000-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2274/2036" , 
+ "authorList" : [  
+ "Paulo Gileno Cysneiros" ] 
+} 
+, { "id" : "2251_2013" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "7-2000-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2251/2013" , 
+ "authorList" : [  
+ "Raul Sidnei Wazlawick" ] 
+} 
+, { "id" : "2252_2014" , 
+ "paperName" : "Projeto Tranteam Br O Desenvolvimento de uma Escola Aberta, Democrática e Multicultural na Internet Br" , 
+ "edicao" : "7-2000-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2252/2014" , 
+ "authorList" : [  
+ "Marisa Lucena"  , "Nancy Fares Barbera" ] 
+} 
+, { "id" : "2253_2015" , 
+ "paperName" : "Um Experimento de Modelagem Dinâmica Semiquantitativa com a Utilização da Técnica dos Hexágonos" , 
+ "edicao" : "7-2000-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2253/2015" , 
+ "authorList" : [  
+ "Arion de Castro Kurtz dos Santos"  , "Fábio Ferrentini Sampaio"  , "Laércio Ferracioli" ] 
+} 
+, { "id" : "2254_2016" , 
+ "paperName" : "Um Experimento com Agentes de Software para Monitorar a Colaboração em uma Turma Virtual" , 
+ "edicao" : "7-2000-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2254/2016" , 
+ "authorList" : [  
+ "Patrícia Augustin Jaques"  , "Flávio Moreira de Oliveira" ] 
+} 
+, { "id" : "2255_2017" , 
+ "paperName" : "Iniciação à Informática na Perspectiva do Educador" , 
+ "edicao" : "7-2000-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2255/2017" , 
+ "authorList" : [  
+ "Paulo Gileno Cysneiros" ] 
+} 
+, { "id" : "2256_2018" , 
+ "paperName" : "UMA EXPERIÊNCIA DE ENSINO INTEGRADO DOS FUNDAMENTOS MATEMÁTICOS DA CIÊNCIA DA COMPUTAÇÃO" , 
+ "edicao" : "7-2000-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2256/2018" , 
+ "authorList" : [  
+ "Graçaliz Pereira Dimuro"  , "Antônio Carlos da Rocha Costa"  , "Francisco de Paula Marques Rodrigues" ] 
+} 
+, { "id" : "2241_2003" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "8-2001-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2241/2003" , 
+ "authorList" : [  
+ "Raul Sidnei Wazlawick" ] 
+} 
+, { "id" : "2242_2004" , 
+ "paperName" : "Ambiente para Construção de Materiais Instrucionais Apoiados por Vídeo" , 
+ "edicao" : "8-2001-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2242/2004" , 
+ "authorList" : [  
+ "André Luís Alice Raabe"  , "Lúcia Maria Martins Giraffa" ] 
+} 
+, { "id" : "2243_2005" , 
+ "paperName" : "Avaliação Pedagógica do Software STR" , 
+ "edicao" : "8-2001-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2243/2005" , 
+ "authorList" : [  
+ "Susana Ester Krüger"  , "Eloi Fernando Fritsch"  , "Rosa Maria Viccari" ] 
+} 
+, { "id" : "2244_2006" , 
+ "paperName" : "Modelo de Autoria de Cursos de Ensino a Distância" , 
+ "edicao" : "8-2001-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2244/2006" , 
+ "authorList" : [  
+ "Gláucia Regina M. A. Sizilio"  , "Nina Edelweiss" ] 
+} 
+, { "id" : "2245_2007" , 
+ "paperName" : "Um Sistema de Aprendizagem Colaborativa de Didática Utilizando Cenários" , 
+ "edicao" : "8-2001-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2245/2007" , 
+ "authorList" : [  
+ "Mª Elizabeth Sucupira Furtado"  , "Fernando Lincoln Mattos"  , "João José Vasco Furtado"  , "Raimir Holanda Filho" ] 
+} 
+, { "id" : "2246_2008" , 
+ "paperName" : "O Software Educacional e a Psicopedagogia no Ensino de Matemática Direcionado ao Ensino Fundamental" , 
+ "edicao" : "8-2001-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2246/2008" , 
+ "authorList" : [  
+ "Ana Paula Gladcheff"  , "Vera Barros de Oliveira"  , "Dilma Menezes da Silva" ] 
+} 
+, { "id" : "2247_2009" , 
+ "paperName" : "A Complexa Tarefa de Educar a Distância: Uma Reflexão Sobre o Processo Educacional Baseado na Web" , 
+ "edicao" : "8-2001-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2247/2009" , 
+ "authorList" : [  
+ "Luciana Alvim Santos Romani"  , "Heloísa Vieira da Rocha" ] 
+} 
+, { "id" : "2248_2010" , 
+ "paperName" : "Informação, Ciência, Tecnologia e Inovação Curricular em Cursos de Licenciatura" , 
+ "edicao" : "8-2001-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2248/2010" , 
+ "authorList" : [  
+ "Laércio Ferracioli"  , "Fábio Ferrentini Sampaio" ] 
+} 
+, { "id" : "2249_2011" , 
+ "paperName" : "Sistema Inteligente de Apoio a Treinamento e Ensino: Arquitetura e Avaliação" , 
+ "edicao" : "8-2001-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2249/2011" , 
+ "authorList" : [  
+ "Solange Oliveira Rezende"  , "Jaqueline Brigladori Pugliesi"  , "Mirla Eliane Pereira Freire"  , "Maria das Graças Volpe Nunes" ] 
+} 
+, { "id" : "2250_2012" , 
+ "paperName" : "Educação a Distância: O Uso da Informática na Busca da Competência" , 
+ "edicao" : "8-2001-1" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2250/2012" , 
+ "authorList" : [  
+ "Marcia Paul Waquil" ] 
+} 
+, { "id" : "2233_1995" , 
+ "paperName" : "Editorial" , 
+ "edicao" : "9-2001-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2233/1995" , 
+ "authorList" : [  
+ "Raul Sidnei Wazlawick" ] 
+} 
+, { "id" : "2234_1996" , 
+ "paperName" : "Autoria Colaborativa na Web: Experiências e Reflexões sobre a CoWeb" , 
+ "edicao" : "9-2001-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2234/1996" , 
+ "authorList" : [  
+ "Alessandra Alaniz Macedo"  , "Renato de Freitas Bulcão Neto"  , "Maria da Graça Campos Pimentel" ] 
+} 
+, { "id" : "2235_1997" , 
+ "paperName" : "Educação sem Distâncias: Uma Experiência de Convivência em Ambiente Digital de Aprendizagem" , 
+ "edicao" : "9-2001-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2235/1997" , 
+ "authorList" : [  
+ "Débora Laurino Maçada"  , "Luciane Sayuri Sato"  , "Cleci Maraschin" ] 
+} 
+, { "id" : "2236_1998" , 
+ "paperName" : "Evolução Dinâmica de um Curso a Distância Modelado por Workflow" , 
+ "edicao" : "9-2001-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2236/1998" , 
+ "authorList" : [  
+ "Graziela Flores Kunde"  , "Maria Aparecida Souto"  , "José Palazzo M. de Oliveira" ] 
+} 
+, { "id" : "2237_1999" , 
+ "paperName" : "Um Salto no Futuro no Ensino da Administração de Medicamentos: Desenvolvimento de um Programa Instrucional Auxiliado pelo Computador" , 
+ "edicao" : "9-2001-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2237/1999" , 
+ "authorList" : [  
+ "Silvia Helena De Bortoli Cassiani"  , "Flavia Borges da Silva Benfati"  , "Carlos Alberto Seixas" ] 
+} 
+, { "id" : "2238_2000" , 
+ "paperName" : "Sobre o Desenvolvimento e Aplicação de Cursos Totalmente a Distância na Internet" , 
+ "edicao" : "9-2001-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2238/2000" , 
+ "authorList" : [  
+ "Hugo Fuks"  , "Marco Aurélio Gerosa"  , "Carlos José Pereira de Lucena" ] 
+} 
+, { "id" : "2239_2001" , 
+ "paperName" : "Ambiente de Apoio à Mediação da Aprendizagem: Uma bordagem Orientada por Processos e Projetos" , 
+ "edicao" : "9-2001-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2239/2001" , 
+ "authorList" : [  
+ "Orivaldo de Lira Tavares"  , "Silvana Rossy de Brito"  , "Crediné Silva de Menezes"  , "Renata Silva Souza" ] 
+} 
+, { "id" : "2240_2002" , 
+ "paperName" : "Bibliotecas Digitais: Um Sistema para o Controle de Empréstimos e Devoluções de Objetos Digitais" , 
+ "edicao" : "9-2001-2" , 
+ "downloadUrl" : "http://www.br-ie.org/pub/index.php/rbie/article/download/2240/2002" , 
+ "authorList" : [  
+ "Karen Selbach Borges" ] 
+} 
+ ] }
